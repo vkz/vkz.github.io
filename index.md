@@ -3,9 +3,8 @@ Vlad Kozin
 
 ----
 
-> __JavaScript__, __OMeta__, __Racket__, __meta-programming__
-
-> Fall'13 [Recurse Center](https://www.recurse.com/) (aka Hacker School) alum.
+> __JavaScript__, __OMeta__, __Racket__, __meta-programming__\
+> Fall'13 [Recurse Center](https://www.recurse.com/) (aka Hacker School) alum
 
 ----
 

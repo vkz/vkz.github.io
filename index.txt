@@ -6,7 +6,6 @@ VLAD KOZIN
 ------------------------------------------------------------------------
 
   JAVASCRIPT, OMETA, RACKET, META-PROGRAMMING
-
   Fall’13 Recurse Center (aka Hacker School) alum.
 
 ------------------------------------------------------------------------
