@@ -1,0 +1,6 @@
+{
+    "verbose": false,
+    "watch": [ "./" ],
+    "ext": "md css js tex",
+    "exec": "make index.html"
+}
