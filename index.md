@@ -180,4 +180,9 @@ Mexico to Canada twice with the current state count of 19.
 
 ----
 
-> <vladilen.kozin@gmail.com> • +7 916 8100356 • Moscow, Russia
+> <vladilen.kozin@gmail.com> • +7 916 8100356 • Moscow, Russia\
+> \
+> [pdf version](index.pdf) •
+> [txt version](index.txt) •
+> [doc version](index.docx) •
+> [html version](index.html)
