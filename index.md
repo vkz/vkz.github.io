@@ -171,7 +171,7 @@ Activities and interests
 ------------------------
 
 Most of my activities and interests these days involve boxes with lights and
-buttons. Even then there were reports of me cycling, bouldering, surfing,
+buttons. Even so there were reports of me cycling, bouldering, surfing,
 roller-skating, skiing and more. Having owned a sports car I'll choose a bicycle
 every time.
 
