@@ -178,9 +178,9 @@ Lived in the UK, US, Hungary and far more exotic places. Crossed the US from
 Mexico to Canada twice with the current state count of 19.
 
 ----
-
+> **NB:** unless remote is ok I'd probably need a visa to work in your country\
+>\
 > <vladilen.kozin@gmail.com> • +7 916 8100356 • Moscow, Russia\
-> \
 > [pdf version](index.pdf) •
 > [txt version](index.txt) •
 > [doc version](index.docx) •

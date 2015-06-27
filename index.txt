@@ -6,7 +6,7 @@ VLAD KOZIN
 ------------------------------------------------------------------------
 
   JAVASCRIPT, OMETA, RACKET, META-PROGRAMMING
-  Fall’13 Recurse Center (aka Hacker School) alum.
+  Fall’13 Recurse Center (aka Hacker School) alum
 
 ------------------------------------------------------------------------
 
@@ -54,8 +54,8 @@ Racket
 JavaScript
 
     _Author_ of bemhtml-syntax, a syntax converter for BEMHTML - an XSLT
-    inspired templating language - part of BEM methodology of frontend
-    development.
+    inspired templating language - part of BEM methodology of
+    frontend development.
 
     _Author_ of bemhtml-source-convert, a _best effort_ compiler from
     BEMHTML templates to BH templates.
@@ -66,8 +66,8 @@ JavaScript
 
     _Contributor_ to ometa-js, a JavaScript implementation of OMeta.
 
-    _Contributor_ to bem-xjst, XJST-based compiler for BEMHTML
-    templates.
+    _Contributor_ to bem-xjst, XJST-based compiler for
+    BEMHTML templates.
 
 Emacs Lisp
 
@@ -126,9 +126,9 @@ Autodidacticisms
     Université catholique de Louvain for edX
 
     How I was introduced to concurrency, multi-paradigm programming and
-    delightful paradigms that so far seem to exist only in academic
-    setting. Taught by Peter Van Roy and is based on his classical
-    Concepts, Techniques, and Models of Computer Programming.
+    delightful paradigms that so far seem to exist only in
+    academic setting. Taught by Peter Van Roy and is based on his
+    classical Concepts, Techniques, and Models of Computer Programming.
 
 2015
 
@@ -171,5 +171,7 @@ from Mexico to Canada twice with the current state count of 19.
 
 ------------------------------------------------------------------------
 
+  NB: unless remote is ok I’d probably need a visa to work in your
+  country
   vladilen.kozin@gmail.com • +7 916 8100356 • Moscow, Russia
   pdf version • txt version • doc version • html version
