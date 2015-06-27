@@ -163,6 +163,9 @@ OMeta
 Emacs Lisp
 :   Unavoidable.\
 
+C
+:   Enough to pass the systems programming class.\
+
 Factor, OCaml, F#
 :   Toyed with but never mastered in earnest.
 
