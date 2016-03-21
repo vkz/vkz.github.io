@@ -3,7 +3,7 @@ Vlad Kozin
 
 ----
 
-> __JavaScript__, __OMeta__, __Racket__, __meta-programming__\
+> __Clojure__, __ClojureScript__, __JavaScript__, __OMeta__, __Racket__, __meta-programming__\
 > Fall'13 [Recurse Center](https://www.recurse.com/) (aka Hacker School) alum
 
 ----
@@ -32,18 +32,16 @@ Since 2014
     [Renaissance Capital](https://www.rencap.com/InvestmentBanking/About/)
     (Moscow, Russia).
 
-    No programming of any kind unless you count Excel.
 
 2007-2009
 :   *EM Structured Solutions and Derivatives Sales* at
     [Barclays Capital](http://investmentbank.barclays.com/markets.html)
     (London, UK).
 
-    No programming of any kind unless you count Excel and Powerpoint.
 
 
-Code to frown upon
-------------------
+Projects
+--------
 Racket
 :   *Author* of [ometa-racket](https://github.com/vkz/ometa-racket), a mostly
     complete Racket implementation of
@@ -54,6 +52,10 @@ Racket
     *Author* of [skish](https://github.com/vkz/skish), a mostly futile attempt at
     porting Olin Shivers' wonderful [scsh](http://scsh.net/) to Racket. scsh is
     a non-interactive Unix shell embedded within Scheme (originally Scheme48).
+
+Clojure
+:   *Author* of several closed-source FpML related products: FpML message parser,
+    financial derivatives classifier based on ISDA taxonomies.
 
 JavaScript
 :   *Author* of [bemhtml-syntax](https://github.com/vkz/bemhtml-syntax), a syntax
@@ -149,19 +151,25 @@ Languages
 ---------
 
 Russian, English
-:   Equally uncomfortable with both.\
+:   Equally comfortable with both.\
+
+Clojure
+:   What I get to use for my current projects.\
 
 Racket
-:   Would be my weapon of choice were such choice ever offered.\
+:   Favorite Lisp. Would be my weapon of choice were such choice ever offered.\
 
 JavaScript
-:   What I get to speak at work.\
+:   Fair amount of experience especially writing Node.js backend applications.\
 
 OMeta
-:   What I'm fortunate to speak at work.\
+:   Extensive experience writing parsers and fairly complex grammars.\
 
 Emacs Lisp
-:   Unavoidable.\
+:   Unavoidable Lisp.\
+
+Java
+:   Enough to write a Clojure wrapper with necessary bindings and avoid writing more Java.\
 
 C
 :   Enough to pass the systems programming class.\
@@ -181,7 +189,6 @@ Lived in the UK, US, Hungary and far more exotic places. Crossed the US from
 Mexico to Canada twice with the current state count of 19.
 
 ----
-> **NB:** unless remote is ok I'd probably need a visa to work in your country\
 >\
 > <vladilen.kozin@gmail.com> • +7 916 8100356 • Moscow, Russia\
 > [pdf version](index.pdf) •
