@@ -10,8 +10,18 @@ Vlad Kozin
 
 Corporate ladder
 ----------------
+Since 2015
+:   *Programmer/Consultant* at
+    [Droit](droitfintech.com)
+    (New York, USA - remote)
 
-Since 2014
+    Building an expert system for compliant trading. Sneaking
+    Clojure/ClojureScript into unsuspecting financial giants. On any given day I
+    could be designing DSLs, implementing compilers, parsers, rule-based
+    engines, putting together simple browser-based GUIs and whatever else the
+    startup life would have me do.
+    
+2014-2015
 :   *Programmer* at
     [Yandex](https://company.yandex.com/)
     (Moscow, Russia).
@@ -54,8 +64,9 @@ Racket
     a non-interactive Unix shell embedded within Scheme (originally Scheme48).
 
 Clojure
-:   *Author* of several closed-source FpML related products: FpML message parser,
-    financial derivatives classifier based on ISDA taxonomies.
+:   *Author* of several closed-source products: FpML message parser,
+    financial derivatives classifier based on ISDA taxonomies, legal
+    annotation tools, etc.
 
 JavaScript
 :   *Author* of [bemhtml-syntax](https://github.com/vkz/bemhtml-syntax), a syntax
@@ -85,8 +96,8 @@ Emacs Lisp
     JavaScript code to Node.js repl - silly little thing with very few features
     that does make iterative JavaScript development in Emacs sane.
 
-    *Contributor* to [projectile](https://github.com/bbatsov/projectile), a tiny
-    fix for persp/projectile when used with Helm.
+    *Contributor* to whatever little thing I find annoyingly broken in my daily
+     Emacs use. Could be bug reports or tiny fixes to upstream packages.
 
 Formal education
 ----------------
@@ -160,7 +171,7 @@ Racket
 :   Favorite Lisp. Would be my weapon of choice were such choice ever offered.\
 
 JavaScript
-:   Fair amount of experience especially writing Node.js backend applications.\
+:   Wrote fair amount, mostly backend compiler stuff with Node.js.\
 
 OMeta
 :   Extensive experience writing parsers and fairly complex grammars.\
@@ -172,7 +183,7 @@ Java
 :   Enough to write a Clojure wrapper with necessary bindings and avoid writing more Java.\
 
 C
-:   Enough to pass the systems programming class.\
+: Enough to pass a systems programming class but not nearly enough to actually use it.\
 
 Factor, OCaml, F#
 :   Toyed with but never mastered in earnest.
