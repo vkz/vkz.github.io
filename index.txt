@@ -5,7 +5,8 @@ VLAD KOZIN
 
 ------------------------------------------------------------------------
 
-  CLOJURE, CLOJURESCRIPT, JAVASCRIPT, OMETA, RACKET, META-PROGRAMMING
+  CLOJURE, CLOJURESCRIPT, RACKET, REDEX, JAVASCRIPT, OMETA,
+  META-PROGRAMMING
   Fall’13 Recurse Center (aka Hacker School) alum
 
 ------------------------------------------------------------------------
@@ -13,7 +14,13 @@ VLAD KOZIN
 
 Corporate ladder
 
-Since 2015
+Since Apr 2017
+
+    _Programmer_ at Droit (London, UK)
+
+    Same as before but with obligatory daily commute.
+
+2015-2017
 
     _Programmer/Consultant_ at Droit (New York, USA - remote)
 
@@ -63,8 +70,8 @@ Clojure
 JavaScript
 
     _Author_ of bemhtml-syntax, a syntax converter for BEMHTML - an XSLT
-    inspired templating language - part of BEM methodology of
-    frontend development.
+    inspired templating language - part of BEM methodology of frontend
+    development.
 
     _Author_ of bemhtml-source-convert, a _best effort_ compiler from
     BEMHTML templates to BH templates.
@@ -75,8 +82,8 @@ JavaScript
 
     _Contributor_ to ometa-js, a JavaScript implementation of OMeta.
 
-    _Contributor_ to bem-xjst, XJST-based compiler for
-    BEMHTML templates.
+    _Contributor_ to bem-xjst, XJST-based compiler for BEMHTML
+    templates.
 
 Emacs Lisp
 
@@ -85,8 +92,8 @@ Emacs Lisp
     make iterative JavaScript development in Emacs sane.
 
     _Contributor_ to whatever little thing I find annoyingly broken in
-    my daily Emacs use. Could be bug reports or tiny fixes to
-    upstream packages.
+    my daily Emacs use. Could be bug reports or tiny fixes to upstream
+    packages.
 
 
 Formal education
@@ -147,11 +154,21 @@ Autodidacticisms
 
     Because it’s awesome.
 
+2017
+
+    Redex for designing operational semantics
+    The Racket Summer School of Semantics and Languages in Salt Lake
+    City, Utah.
+
+    While targeted at PL PhDs a bunch of us non-academic types had been
+    admitted. Learnt to create languages quickly and back them up with
+    runnable reduction semantics - what’s not to like?
+
 
 Languages
 
 Russian, English
-    Equally comfortable with both.
+    Equally uncomfortable.
 
 Clojure
     What I get to use for my current projects.
@@ -170,15 +187,14 @@ Emacs Lisp
     Unavoidable Lisp.
 
 Java
-    Enough to write a Clojure wrapper with necessary bindings and avoid
-    writing more Java.
+    Enough to write a Clojure wrapper with necessary bindings.
 
 C
     Enough to pass a systems programming class but not nearly enough to
     actually use it.
 
-Factor, OCaml, F#
-    Toyed with but never mastered in earnest.
+Factor, OCaml, Lua
+    Toyed with but never used in earnest.
 
 
 Activities and interests
@@ -188,10 +204,10 @@ and buttons. Even so there were reports of me cycling, bouldering,
 surfing, roller-skating, skiing and more. Having owned a sports car I’ll
 choose a bicycle every time.
 
-Lived in the UK, US, Hungary and far more exotic places. Crossed the US
-from Mexico to Canada twice with the current state count of 19.
+Lived in the UK, US, Hungary, Spain and far more exotic places. Crossed
+the US from Mexico to Canada twice with the current state count of 19.
 
 ------------------------------------------------------------------------
 
-  vladilen.kozin@gmail.com • +7 916 8100356 • Moscow, Russia
+  vladilen.kozin@gmail.com • +44 7494979 626 • London, UK
   pdf version • txt version • doc version • html version

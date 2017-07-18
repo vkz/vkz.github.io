@@ -3,14 +3,21 @@ Vlad Kozin
 
 ----
 
-> __Clojure__, __ClojureScript__, __JavaScript__, __OMeta__, __Racket__, __meta-programming__\
+> __Clojure__, __ClojureScript__, __Racket__, __Redex__, __JavaScript__, __OMeta__, __meta-programming__\
 > Fall'13 [Recurse Center](https://www.recurse.com/) (aka Hacker School) alum
 
 ----
 
 Corporate ladder
 ----------------
-Since 2015
+Since Apr 2017
+:   *Programmer* at
+    [Droit](droitfintech.com)
+    (London, UK)
+
+    Same as before but with obligatory daily commute.
+
+2015-2017
 :   *Programmer/Consultant* at
     [Droit](droitfintech.com)
     (New York, USA - remote)
@@ -42,7 +49,7 @@ Since 2015
     [Renaissance Capital](https://www.rencap.com/InvestmentBanking/About/)
     (Moscow, Russia).
 
-
+    
 2007-2009
 :   *EM Structured Solutions and Derivatives Sales* at
     [Barclays Capital](http://investmentbank.barclays.com/markets.html)
@@ -132,7 +139,7 @@ Autodidacticisms
     type checkers.
 
 2014
-:   [Hardware/Software Interface](https://www.coursera.org/course/hwswinterface), [[Certificate](http://bit.ly/1FBVMks) 89.6%]\
+:   [Hardware/Software Interface](https://www.coursera.org/course/hwswinterface), [[Certificate](https://www.dropbox.com/s/ca393yfzxz9ymvi/Certificate%20-%20Hardware%20Software%20Interface%20%28Coursera%29.pdf?dl=0) 89.6%]\
     University of Washington for Coursera
 
     How I was introduced to systems programming. Essentially an Introduction to
@@ -142,8 +149,8 @@ Autodidacticisms
     Bryant and O’Hallaron.
 
 2014
-:   [Paradigms of Computer Programming 1](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-0), [[Certificate1](http://bit.ly/1F2svxU) 94%]\
-    [Paradigms of Computer Programming 2](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-0), [[Certificate2](http://bit.ly/1cEu4Lu) 97%]\
+:   [Paradigms of Computer Programming 1](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-0), [[Certificate1](https://www.dropbox.com/s/043fwuco9fhbb09/Certificate%20-%20Paradigms%20of%20Computer%20Programming%20part1%20%28Louvain%20for%20EDX%29.pdf?dl=0) 94%]\
+    [Paradigms of Computer Programming 2](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-0), [[Certificate2](https://www.dropbox.com/s/awaogk8u5bsamqk/Certificate%20-%20Paradigms%20of%20Computer%20Programming%20part2%20%28Louvain%20for%20EDX%29.pdf?dl=0) 97%]\
     Université catholique de Louvain for edX
 
     How I was introduced to concurrency, multi-paradigm programming and
@@ -153,16 +160,24 @@ Autodidacticisms
     [Concepts, Techniques, and Models of Computer Programming](https://www.info.ucl.ac.be/~pvr/book).
 
 2015
-:   [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0), [[Certificate](http://bit.ly/1FHykkR) 94%]\
+:   [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0), [[Certificate](https://www.dropbox.com/s/egjo8b6ivigoqqj/Certificate%20-%20Intro%20to%20Probability%20%28MIT%20for%20EDX%29.pdf?dl=0) 94%]\
     MIT for edX
 
     Because it's awesome.
+    
+2017
+:   [Redex](https://redex.racket-lang.org/) for designing operational semantics\
+    [The Racket Summer School of Semantics and Languages](https://summer-school.racket-lang.org/2017/) in Salt Lake City, Utah.
+    
+    While targeted at PL PhDs a bunch of us non-academic types had been
+    admitted. Learnt to create languages quickly and back them up with runnable
+    reduction semantics - what's not to like?
 
 Languages
 ---------
 
 Russian, English
-:   Equally comfortable with both.\
+:   Equally uncomfortable.\
 
 Clojure
 :   What I get to use for my current projects.\
@@ -180,13 +195,13 @@ Emacs Lisp
 :   Unavoidable Lisp.\
 
 Java
-:   Enough to write a Clojure wrapper with necessary bindings and avoid writing more Java.\
+:   Enough to write a Clojure wrapper with necessary bindings.\
 
 C
 : Enough to pass a systems programming class but not nearly enough to actually use it.\
 
-Factor, OCaml, F#
-:   Toyed with but never mastered in earnest.
+Factor, OCaml, Lua
+:   Toyed with but never used in earnest.
 
 Activities and interests
 ------------------------
@@ -196,12 +211,12 @@ buttons. Even so there were reports of me cycling, bouldering, surfing,
 roller-skating, skiing and more. Having owned a sports car I'll choose a bicycle
 every time.
 
-Lived in the UK, US, Hungary and far more exotic places. Crossed the US from
+Lived in the UK, US, Hungary, Spain and far more exotic places. Crossed the US from
 Mexico to Canada twice with the current state count of 19.
 
 ----
 >\
-> <vladilen.kozin@gmail.com> • +7 916 8100356 • Moscow, Russia\
+> <vladilen.kozin@gmail.com> • +44 7494979 626 • London, UK\
 > [pdf version](index.pdf) •
 > [txt version](index.txt) •
 > [doc version](index.docx) •
