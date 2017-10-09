@@ -114,7 +114,7 @@ Formal education
 
     \
 
-2005
+2004
 :   [New Economic School](https://www.nes.ru/) (Moscow, Russia)\
      *MS in Economics track with full scholarship, dropped out*
      
