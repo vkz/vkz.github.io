@@ -114,6 +114,12 @@ Formal education
 
     \
 
+2005
+:   [New Economic School](https://www.nes.ru/) (Moscow, Russia)\
+     *MS in Economics track with full scholarship, dropped out*
+     
+     \
+
 1999-2004
 :   [Lomonosov Moscow State University](http://www.msu.ru/en/info/struct/depts/mechmath.html) (Moscow, Russia)\
     *MS in Theoretical Mechanics and Applied Mathematics.*
