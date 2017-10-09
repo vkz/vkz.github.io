@@ -12,14 +12,14 @@ Corporate ladder
 ----------------
 Since Apr 2017
 :   *Programmer* at
-    [Droit](droitfintech.com)
+    [Droit](http://droitfintech.com/)
     (London, UK)
 
     Same as before but with obligatory daily commute.
 
 2015-2017
 :   *Programmer/Consultant* at
-    [Droit](droitfintech.com)
+    [Droit](http://droitfintech.com/)
     (New York, USA - remote)
 
     Building an expert system for compliant trading. Sneaking
