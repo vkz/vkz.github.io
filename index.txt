@@ -63,9 +63,12 @@ Racket
     embedded within Scheme (originally Scheme48).
 
 Clojure
+
     _Author_ of several closed-source products: FpML message parser,
     financial derivatives classifier based on ISDA taxonomies, legal
     annotation tools, etc.
+
+    _Contributor_ to seqexp, regular expressions for Clojure sequences.
 
 JavaScript
 
@@ -84,16 +87,6 @@ JavaScript
 
     _Contributor_ to bem-xjst, XJST-based compiler for BEMHTML
     templates.
-
-Emacs Lisp
-
-    _Author_ of jslime, a minor mode that sends JavaScript code to
-    Node.js repl - silly little thing with very few features that does
-    make iterative JavaScript development in Emacs sane.
-
-    _Contributor_ to whatever little thing I find annoyingly broken in
-    my daily Emacs use. Could be bug reports or tiny fixes to upstream
-    packages.
 
 
 Formal education

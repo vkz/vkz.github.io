@@ -74,6 +74,9 @@ Clojure
 :   *Author* of several closed-source products: FpML message parser,
     financial derivatives classifier based on ISDA taxonomies, legal
     annotation tools, etc.
+    
+    *Contributor* to [seqexp](https://github.com/cgrand/seqexp/pull/6), regular
+    expressions for Clojure sequences.
 
 JavaScript
 :   *Author* of [bemhtml-syntax](https://github.com/vkz/bemhtml-syntax), a syntax
@@ -97,14 +100,6 @@ JavaScript
     *Contributor* to [bem-xjst](https://github.com/bem/bem-xjst), XJST-based
     compiler for BEMHTML templates.
 
-
-Emacs Lisp
-:   *Author* of [jslime](https://github.com/vkz/jslime), a minor mode that sends
-    JavaScript code to Node.js repl - silly little thing with very few features
-    that does make iterative JavaScript development in Emacs sane.
-
-    *Contributor* to whatever little thing I find annoyingly broken in my daily
-     Emacs use. Could be bug reports or tiny fixes to upstream packages.
 
 Formal education
 ----------------
