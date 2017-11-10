@@ -71,9 +71,9 @@ Racket
     a non-interactive Unix shell embedded within Scheme (originally Scheme48).
 
 Clojure
-:   *Author* of several closed-source products: FpML message parser,
-    financial derivatives classifier based on ISDA taxonomies, legal
-    annotation tools, etc.
+:   *Author* of several closed-source products: FpML message parser, financial
+    derivatives classifier based on ISDA taxonomies, legal annotation tools, PDF
+    and XML content extractor and transformation tools.
     
     *Contributor* to [seqexp](https://github.com/cgrand/seqexp/pull/6), regular
     expressions for Clojure sequences.

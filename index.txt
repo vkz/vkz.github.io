@@ -66,7 +66,8 @@ Clojure
 
     _Author_ of several closed-source products: FpML message parser,
     financial derivatives classifier based on ISDA taxonomies, legal
-    annotation tools, etc.
+    annotation tools, PDF and XML content extractor and transformation
+    tools.
 
     _Contributor_ to seqexp, regular expressions for Clojure sequences.
 
