@@ -11,7 +11,7 @@ Vladilen Kozin
 Corporate ladder
 ----------------
 Since Apr 2017
-:   *Programmer* at
+:   *Senior Programmer* at
     [Droit](http://droitfintech.com/)
     (London, UK)
 
