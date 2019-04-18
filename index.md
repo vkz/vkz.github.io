@@ -60,43 +60,62 @@ Emacs Lisp
     noise with *multi-patterns*, case-dispatch with *multi-defuns*, benchmarking
     with *multi-benchmarks*.
 
+    \
+
 Racket
 :   *Author* of [prelude](https://github.com/vkz/prelude) that extends Racket with
     generic associative API, Lua-style meta-tables for prototypal inheritance and
     more.
-    
+
+    \
+
     *Author* of [ponzi](https://github.com/vkz/ponzi) - the beginnings of a clever
     Scheme for a discerning smart contract builder. WIP but it does implement the
     Ethereum Virtual Machine close enough to the Yellow Paper.
-    
+
+    \
+
     *Author* of [ometa-racket](https://github.com/vkz/ometa-racket), a mostly
     complete Racket implementation of
     [OMeta](http://en.wikipedia.org/wiki/OMeta) - OO pattern-matching language
     that extends PEGs with ability to handle left-recursive rules and match
     structured data.
 
+    \
+
     *Author* of [skish](https://github.com/vkz/skish), a mostly futile attempt at
     porting Olin Shivers' wonderful [scsh](http://scsh.net/) to Racket. scsh is
     a non-interactive Unix shell embedded within Scheme (originally Scheme48).
-    
+
+    \
+
     *Contributor* to Racket the language.
+    
 
 Clojure
 :   *Author* of several closed-source products: FpML message parser, financial
     derivatives classifier based on ISDA taxonomies, legal annotation tools, PDF
     and XML content extractor and transformation tools.
-    
+
+    \
+
     *Author* of [bot](https://github.com/vkz/playrum) - a crypto-currency
     arbitrager that could talk to several exchanges including Bitfinex and GDAX.
     It uses Clojure Spec to parse and validate protocol messages and
     [aleph](https://github.com/ztellman/aleph) for async communication and
     concurrency.
-    
+
+    \
+
     *Author* of [playrum](https://github.com/vkz/playrum) - just getting the taste
     for React in ClojureScript.
-    
+
+    \
+
     *Contributor* to [seqexp](https://github.com/cgrand/seqexp/pull/6), regular
     expressions for Clojure sequences.
+
+    \
 
 JavaScript
 :   *Author* of [bemhtml-syntax](https://github.com/vkz/bemhtml-syntax), a syntax
@@ -104,18 +123,26 @@ JavaScript
     language - part of [BEM methodology](https://en.bem.info/method/) of
     frontend development.
 
+    \
+
     *Author* of
     [bemhtml-source-convert](https://github.com/vkz/bemhtml-source-convert), a
     *best effort* compiler from [BEMHTML](https://en.bem.info/) templates to
     [BH](https://github.com/bem/bh) templates.
+
+    \
 
     *Author* of [xjst-more](https://github.com/vkz/xjst-more), an
     [XJST](https://github.com/veged/xjst)-based compiler for BEMHTML templates
     that facilitates incremental compilation of templates potentially on the
     Client. WIP.
 
+    \
+
     *Contributor* to [ometa-js](https://github.com/veged/ometa-js), a JavaScript
     implementation of [OMeta](http://en.wikipedia.org/wiki/OMeta).
+
+    \
 
     *Contributor* to [bem-xjst](https://github.com/bem/bem-xjst), XJST-based
     compiler for BEMHTML templates.
@@ -142,11 +169,45 @@ Formal education
 Autodidacticisms
 ----------------
 
-2012
-:   [How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html)
-    by Matthias Felleisen et al.
+2018
+:   Language-oriented Programming and Language Building\
+    [The Racket Summer School 2018](https://summer-school.racket-lang.org/2018/)
+    in Salt Lake City, Utah.
 
-    How I was introduced to programming. [Assorted solutions to HtDP](https://github.com/vkz/HtDP).
+2017
+:   [Redex](https://redex.racket-lang.org/) for designing operational semantics\
+    [The Racket Summer School of Semantics and Languages](https://summer-school.racket-lang.org/2017/) in Salt Lake City, Utah.
+    
+    While targeted at PL PhDs a bunch of us non-academic types had been
+    admitted. Learnt to create languages quickly and back them up with runnable
+    reduction semantics - what's not to like?
+    
+2015
+:   [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0), [[Certificate](https://www.dropbox.com/s/egjo8b6ivigoqqj/Certificate%20-%20Intro%20to%20Probability%20%28MIT%20for%20EDX%29.pdf?dl=0) 94%]\
+    MIT for edX
+
+    Because it's awesome.
+    
+2014
+:   [Paradigms of Computer Programming 1](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-0), [[Certificate1](https://www.dropbox.com/s/043fwuco9fhbb09/Certificate%20-%20Paradigms%20of%20Computer%20Programming%20part1%20%28Louvain%20for%20EDX%29.pdf?dl=0) 94%]\
+    [Paradigms of Computer Programming 2](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-0), [[Certificate2](https://www.dropbox.com/s/awaogk8u5bsamqk/Certificate%20-%20Paradigms%20of%20Computer%20Programming%20part2%20%28Louvain%20for%20EDX%29.pdf?dl=0) 97%]\
+    Université catholique de Louvain for edX
+
+    How I was introduced to concurrency, multi-paradigm programming and
+    delightful paradigms that so far seem to exist only in academic setting.
+    Taught by [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/cvvanroy.html) and
+    is based on his classical
+    [Concepts, Techniques, and Models of Computer Programming](https://www.info.ucl.ac.be/~pvr/book).
+
+2014
+:   [Hardware/Software Interface](https://www.coursera.org/course/hwswinterface), [[Certificate](https://www.dropbox.com/s/ca393yfzxz9ymvi/Certificate%20-%20Hardware%20Software%20Interface%20%28Coursera%29.pdf?dl=0) 89.6%]\
+    University of Washington for Coursera
+
+    How I was introduced to systems programming. Essentially an Introduction to
+    Computer Systems course as taught at Carnegie Mellon with the same
+    course-load and text
+    [Computer Systems: A Programmer’s Perspective](http://csapp.cs.cmu.edu/) by
+    Bryant and O’Hallaron.
 
 2012
 :   [Programming Languages](http://cs.brown.edu/courses/cs173/2012/), [[Certificate](http://cs.brown.edu/courses/cs173/2012/OnLine/Certification/687898716/)]\
@@ -159,45 +220,12 @@ Autodidacticisms
     progressively more complex languages: all the way to OOP, CPS transforms and
     type checkers.
 
-2014
-:   [Hardware/Software Interface](https://www.coursera.org/course/hwswinterface), [[Certificate](https://www.dropbox.com/s/ca393yfzxz9ymvi/Certificate%20-%20Hardware%20Software%20Interface%20%28Coursera%29.pdf?dl=0) 89.6%]\
-    University of Washington for Coursera
+2012
+:   [How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html)
+    by Matthias Felleisen et al.
 
-    How I was introduced to systems programming. Essentially an Introduction to
-    Computer Systems course as taught at Carnegie Mellon with the same
-    course-load and text
-    [Computer Systems: A Programmer’s Perspective](http://csapp.cs.cmu.edu/) by
-    Bryant and O’Hallaron.
+    How I was introduced to programming. [Assorted solutions to HtDP](https://github.com/vkz/HtDP).
 
-2014
-:   [Paradigms of Computer Programming 1](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-0), [[Certificate1](https://www.dropbox.com/s/043fwuco9fhbb09/Certificate%20-%20Paradigms%20of%20Computer%20Programming%20part1%20%28Louvain%20for%20EDX%29.pdf?dl=0) 94%]\
-    [Paradigms of Computer Programming 2](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-0), [[Certificate2](https://www.dropbox.com/s/awaogk8u5bsamqk/Certificate%20-%20Paradigms%20of%20Computer%20Programming%20part2%20%28Louvain%20for%20EDX%29.pdf?dl=0) 97%]\
-    Université catholique de Louvain for edX
-
-    How I was introduced to concurrency, multi-paradigm programming and
-    delightful paradigms that so far seem to exist only in academic setting.
-    Taught by [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/cvvanroy.html) and
-    is based on his classical
-    [Concepts, Techniques, and Models of Computer Programming](https://www.info.ucl.ac.be/~pvr/book).
-
-2015
-:   [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0), [[Certificate](https://www.dropbox.com/s/egjo8b6ivigoqqj/Certificate%20-%20Intro%20to%20Probability%20%28MIT%20for%20EDX%29.pdf?dl=0) 94%]\
-    MIT for edX
-
-    Because it's awesome.
-    
-2017
-:   [Redex](https://redex.racket-lang.org/) for designing operational semantics\
-    [The Racket Summer School of Semantics and Languages](https://summer-school.racket-lang.org/2017/) in Salt Lake City, Utah.
-    
-    While targeted at PL PhDs a bunch of us non-academic types had been
-    admitted. Learnt to create languages quickly and back them up with runnable
-    reduction semantics - what's not to like?
-    
-2018
-:   Language-oriented Programming and Language Building\
-    [The Racket Summer School 2018](https://summer-school.racket-lang.org/2018/)
-    in Salt Lake City, Utah.
     
 Public Speaking
 ---------------
@@ -235,7 +263,7 @@ Java
 C
 : Enough to pass a systems programming class but not nearly enough to actually use it.\
 
-Factor, OCaml, Lua, Rust
+Factor, OCaml, Lua, Rust, Shen
 :   Toyed with but never used in earnest. I
     [ported](https://github.com/vkz/prelude/blob/master/tables.rkt) some good
     ideas from Lua to Racket and contributed a patch to

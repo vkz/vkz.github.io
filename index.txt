@@ -53,6 +53,7 @@ Apr-Nov 2017
 Projects
 
 Emacs Lisp
+
     _Author_ of multi.el - all things multiple dispatch for Emacs Lisp:
     type driven dispatch with _protocols_, ad-hoc polymorphism with
     _multi-methods_, pattern-matching and destructuring without noise
@@ -133,31 +134,26 @@ Formal education
 
 Autodidacticisms
 
-2012
+2018
+    Language-oriented Programming and Language Building
+    The Racket Summer School 2018 in Salt Lake City, Utah.
 
-    How to Design Programs by Matthias Felleisen et al.
+2017
 
-    How I was introduced to programming. Assorted solutions to HtDP.
+    Redex for designing operational semantics
+    The Racket Summer School of Semantics and Languages in Salt Lake
+    City, Utah.
 
-2012
+    While targeted at PL PhDs a bunch of us non-academic types had been
+    admitted. Learnt to create languages quickly and back them up with
+    runnable reduction semantics - what’s not to like?
 
-    Programming Languages, [Certificate]
-    Brown University
+2015
 
-    How I was introduced to creating PLs. Taught by Shriram
-    Krishnamurthi based on his wonderful PLAI text. My solutions - a
-    sequence of interpreters for progressively more complex languages:
-    all the way to OOP, CPS transforms and type checkers.
+    Introduction to Probability, [Certificate 94%]
+    MIT for edX
 
-2014
-
-    Hardware/Software Interface, [Certificate 89.6%]
-    University of Washington for Coursera
-
-    How I was introduced to systems programming. Essentially an
-    Introduction to Computer Systems course as taught at Carnegie Mellon
-    with the same course-load and text Computer Systems: A Programmer’s
-    Perspective by Bryant and O’Hallaron.
+    Because it’s awesome.
 
 2014
 
@@ -170,26 +166,31 @@ Autodidacticisms
     setting. Taught by Peter Van Roy and is based on his classical
     Concepts, Techniques, and Models of Computer Programming.
 
-2015
+2014
 
-    Introduction to Probability, [Certificate 94%]
-    MIT for edX
+    Hardware/Software Interface, [Certificate 89.6%]
+    University of Washington for Coursera
 
-    Because it’s awesome.
+    How I was introduced to systems programming. Essentially an
+    Introduction to Computer Systems course as taught at Carnegie Mellon
+    with the same course-load and text Computer Systems: A Programmer’s
+    Perspective by Bryant and O’Hallaron.
 
-2017
+2012
 
-    Redex for designing operational semantics
-    The Racket Summer School of Semantics and Languages in Salt Lake
-    City, Utah.
+    Programming Languages, [Certificate]
+    Brown University
 
-    While targeted at PL PhDs a bunch of us non-academic types had been
-    admitted. Learnt to create languages quickly and back them up with
-    runnable reduction semantics - what’s not to like?
+    How I was introduced to creating PLs. Taught by Shriram
+    Krishnamurthi based on his wonderful PLAI text. My solutions - a
+    sequence of interpreters for progressively more complex languages:
+    all the way to OOP, CPS transforms and type checkers.
 
-2018
-    Language-oriented Programming and Language Building
-    The Racket Summer School 2018 in Salt Lake City, Utah.
+2012
+
+    How to Design Programs by Matthias Felleisen et al.
+
+    How I was introduced to programming. Assorted solutions to HtDP.
 
 
 Public Speaking
@@ -230,7 +231,7 @@ C
     Enough to pass a systems programming class but not nearly enough to
     actually use it.
 
-Factor, OCaml, Lua, Rust
+Factor, OCaml, Lua, Rust, Shen
     Toyed with but never used in earnest. I ported some good ideas from
     Lua to Racket and contributed a patch to racer-rust.
 
