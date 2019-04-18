@@ -42,6 +42,7 @@ Apr-Nov 2017
     work and take all the credit.
 
 2009-2011
+
     _Equity Derivatives & Structured Products Sales_ at Renaissance
     Capital (Moscow, Russia).
 
@@ -135,6 +136,7 @@ Formal education
 Autodidacticisms
 
 2018
+
     Language-oriented Programming and Language Building
     The Racket Summer School 2018 in Salt Lake City, Utah.
 

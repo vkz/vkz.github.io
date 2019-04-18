@@ -18,6 +18,8 @@ Apr-Nov 2017
 
     Same as before but with obligatory daily commute.
 
+    \
+
 2015-2017
 :   *Programmer/Consultant* at
     [Droit](http://droitfintech.com/)
@@ -27,7 +29,9 @@ Apr-Nov 2017
     unsuspecting financial giants. On any given day I could be designing DSLs,
     implementing compilers, parsers, rule-based engines, putting together simple
     browser-based GUIs and whatever else the startup life would have me do.
-    
+
+    \
+
 2014-2015
 :   *Programmer* at
     [Yandex](https://company.yandex.com/)
@@ -38,12 +42,15 @@ Apr-Nov 2017
     write your template engines. If I were lucky and did it right frontend
     developers would get to use my work and take all the credit.
 
+    \
+
 2009-2011
 :   *Equity Derivatives & Structured Products Sales* at
     [Renaissance Capital](https://www.rencap.com/InvestmentBanking/About/)
     (Moscow, Russia).
 
-    
+    \
+
 2007-2009
 :   *EM Structured Solutions and Derivatives Sales* at
     [Barclays Capital](http://investmentbank.barclays.com/markets.html)
@@ -90,7 +97,8 @@ Racket
     \
 
     *Contributor* to Racket the language.
-    
+
+    \
 
 Clojure
 :   *Author* of several closed-source products: FpML message parser, financial
@@ -174,6 +182,8 @@ Autodidacticisms
     [The Racket Summer School 2018](https://summer-school.racket-lang.org/2018/)
     in Salt Lake City, Utah.
 
+    \
+
 2017
 :   [Redex](https://redex.racket-lang.org/) for designing operational semantics\
     [The Racket Summer School of Semantics and Languages](https://summer-school.racket-lang.org/2017/) in Salt Lake City, Utah.
@@ -181,13 +191,17 @@ Autodidacticisms
     While targeted at PL PhDs a bunch of us non-academic types had been
     admitted. Learnt to create languages quickly and back them up with runnable
     reduction semantics - what's not to like?
-    
+
+    \
+
 2015
 :   [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0), [[Certificate](https://www.dropbox.com/s/egjo8b6ivigoqqj/Certificate%20-%20Intro%20to%20Probability%20%28MIT%20for%20EDX%29.pdf?dl=0) 94%]\
     MIT for edX
 
     Because it's awesome.
-    
+
+    \
+
 2014
 :   [Paradigms of Computer Programming 1](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-0), [[Certificate1](https://www.dropbox.com/s/043fwuco9fhbb09/Certificate%20-%20Paradigms%20of%20Computer%20Programming%20part1%20%28Louvain%20for%20EDX%29.pdf?dl=0) 94%]\
     [Paradigms of Computer Programming 2](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-0), [[Certificate2](https://www.dropbox.com/s/awaogk8u5bsamqk/Certificate%20-%20Paradigms%20of%20Computer%20Programming%20part2%20%28Louvain%20for%20EDX%29.pdf?dl=0) 97%]\
@@ -199,6 +213,8 @@ Autodidacticisms
     is based on his classical
     [Concepts, Techniques, and Models of Computer Programming](https://www.info.ucl.ac.be/~pvr/book).
 
+    \
+
 2014
 :   [Hardware/Software Interface](https://www.coursera.org/course/hwswinterface), [[Certificate](https://www.dropbox.com/s/ca393yfzxz9ymvi/Certificate%20-%20Hardware%20Software%20Interface%20%28Coursera%29.pdf?dl=0) 89.6%]\
     University of Washington for Coursera
@@ -208,6 +224,8 @@ Autodidacticisms
     course-load and text
     [Computer Systems: A Programmer’s Perspective](http://csapp.cs.cmu.edu/) by
     Bryant and O’Hallaron.
+
+    \
 
 2012
 :   [Programming Languages](http://cs.brown.edu/courses/cs173/2012/), [[Certificate](http://cs.brown.edu/courses/cs173/2012/OnLine/Certification/687898716/)]\
@@ -219,6 +237,8 @@ Autodidacticisms
     [My solutions](https://github.com/vkz/PLAI) - a sequence of interpreters for
     progressively more complex languages: all the way to OOP, CPS transforms and
     type checkers.
+
+    \
 
 2012
 :   [How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html)
@@ -237,31 +257,31 @@ Languages
 ---------
 
 Russian, English
-:   Equally uncomfortable.\
+:   Equally uncomfortable.
 
 Clojure
-:   What I get to use on the job. Can't complain.\
+:   What I get to use on the job. Can't complain.
 
 Racket
-:   Favorite Lisp. Would be my weapon of choice were such choice ever offered.\
+:   Favorite Lisp. Would be my weapon of choice were such choice ever offered.
 
 Emacs Lisp
-:   Unavoidable Lisp for any Emacs user. It is surprisingly fun to code.\
+:   Unavoidable Lisp for any Emacs user. It is surprisingly fun to code.
 
 JavaScript
-:   Wrote fair amount, mostly backend compiler stuff with Node.js.\
+:   Wrote fair amount, mostly backend compiler stuff with Node.js.
 
 OMeta
-:   Extensive experience writing parsers with complex and context dependent grammars.\
+:   Extensive experience writing parsers with complex and context dependent grammars.
 
 Redex
-:   Can implement executable semantics for your pet-language or DSL.\
+:   Can implement executable semantics for your pet-language or DSL.
 
 Java
-:   Enough to write a Clojure wrapper with necessary bindings.\
+:   Enough to write a Clojure wrapper with necessary bindings.
 
 C
-: Enough to pass a systems programming class but not nearly enough to actually use it.\
+: Enough to pass a systems programming class but not nearly enough to actually use it.
 
 Factor, OCaml, Lua, Rust, Shen
 :   Toyed with but never used in earnest. I
