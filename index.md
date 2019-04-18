@@ -3,14 +3,15 @@ Vladilen Kozin
 
 ----
 
-> __Clojure__, __ClojureScript__, __Racket__, __Redex__, __JavaScript__, __OMeta__, __meta-programming__\
-> Fall'13 [Recurse Center](https://www.recurse.com/) (aka Hacker School) alum
+> __Clojure(Script)__, __Racket__, __Emacs Lisp__, __Redex__, __JavaScript__, __OMeta__, __meta-programming__\
+> Fall'13 [Recurse Center](https://www.recurse.com/) (aka Hacker School) alum\
+> UK Tier 1 [Exceptional Talent visa](https://www.gov.uk/tier-1-exceptional-talent) holder
 
 ----
 
 Corporate ladder
 ----------------
-Since Apr 2017
+Apr-Nov 2017
 :   *Senior Programmer* at
     [Droit](http://droitfintech.com/)
     (London, UK)
@@ -22,11 +23,10 @@ Since Apr 2017
     [Droit](http://droitfintech.com/)
     (New York, USA - remote)
 
-    Building an expert system for compliant trading. Sneaking
-    Clojure/ClojureScript into unsuspecting financial giants. On any given day I
-    could be designing DSLs, implementing compilers, parsers, rule-based
-    engines, putting together simple browser-based GUIs and whatever else the
-    startup life would have me do.
+    Building an expert system for compliant trading. Sneaking Clojure(Script) into
+    unsuspecting financial giants. On any given day I could be designing DSLs,
+    implementing compilers, parsers, rule-based engines, putting together simple
+    browser-based GUIs and whatever else the startup life would have me do.
     
 2014-2015
 :   *Programmer* at
@@ -34,15 +34,9 @@ Since Apr 2017
     (Moscow, Russia).
 
     Officially a member of *Search Interfaces Development Infrastructure* group,
-    but mostly I write backend tools that perform source to source compilation:
-    parse, transform and generate code. Any given project will inevitably depend
-    on: [ometajs](https://github.com/veged/ometa-js),
-    [esprima](http://esprima.org/),
-    [estraverse](https://github.com/estools/estraverse),
-    [uglify-js](https://github.com/mishoo/UglifyJS),
-    [escodegen](https://github.com/estools/escodegen),
-    [xjst](https://github.com/veged/xjst). If I'm lucky and do it right frontend
-    developers get to use my work and get all the credit.
+    but mostly I wrote backend tools for source to source compilation - engines to
+    write your template engines. If I were lucky and did it right frontend
+    developers would get to use my work and take all the credit.
 
 2009-2011
 :   *Equity Derivatives & Structured Products Sales* at
@@ -59,8 +53,23 @@ Since Apr 2017
 
 Projects
 --------
+Emacs Lisp
+:   *Author* of [multi.el](https://github.com/vkz/multi) - all things multiple
+    dispatch for Emacs Lisp: type driven dispatch with *protocols*, ad-hoc
+    polymorphism with *multi-methods*, pattern-matching and destructuring without
+    noise with *multi-patterns*, case-dispatch with *multi-defuns*, benchmarking
+    with *multi-benchmarks*.
+
 Racket
-:   *Author* of [ometa-racket](https://github.com/vkz/ometa-racket), a mostly
+:   *Author* of [prelude](https://github.com/vkz/prelude) that extends Racket with
+    generic associative API, Lua-style meta-tables for prototypal inheritance and
+    more.
+    
+    *Author* of [ponzi](https://github.com/vkz/ponzi) - the beginnings of a clever
+    Scheme for a discerning smart contract builder. WIP but it does implement the
+    Ethereum Virtual Machine close enough to the Yellow Paper.
+    
+    *Author* of [ometa-racket](https://github.com/vkz/ometa-racket), a mostly
     complete Racket implementation of
     [OMeta](http://en.wikipedia.org/wiki/OMeta) - OO pattern-matching language
     that extends PEGs with ability to handle left-recursive rules and match
@@ -69,11 +78,22 @@ Racket
     *Author* of [skish](https://github.com/vkz/skish), a mostly futile attempt at
     porting Olin Shivers' wonderful [scsh](http://scsh.net/) to Racket. scsh is
     a non-interactive Unix shell embedded within Scheme (originally Scheme48).
+    
+    *Contributor* to Racket the language.
 
 Clojure
 :   *Author* of several closed-source products: FpML message parser, financial
     derivatives classifier based on ISDA taxonomies, legal annotation tools, PDF
     and XML content extractor and transformation tools.
+    
+    *Author* of [bot](https://github.com/vkz/playrum) - a crypto-currency
+    arbitrager that could talk to several exchanges including Bitfinex and GDAX.
+    It uses Clojure Spec to parse and validate protocol messages and
+    [aleph](https://github.com/ztellman/aleph) for async communication and
+    concurrency.
+    
+    *Author* of [playrum](https://github.com/vkz/playrum) - just getting the taste
+    for React in ClojureScript.
     
     *Contributor* to [seqexp](https://github.com/cgrand/seqexp/pull/6), regular
     expressions for Clojure sequences.
@@ -173,6 +193,17 @@ Autodidacticisms
     While targeted at PL PhDs a bunch of us non-academic types had been
     admitted. Learnt to create languages quickly and back them up with runnable
     reduction semantics - what's not to like?
+    
+2018
+:   Language-oriented Programming and Language Building\
+    [The Racket Summer School 2018](https://summer-school.racket-lang.org/2018/)
+    in Salt Lake City, Utah.
+    
+Public Speaking
+---------------
+
+due July 2019
+:   I will be an invited speaker at [RacketCon'19](https://con.racket-lang.org/) in Utah
 
 Languages
 ---------
@@ -181,19 +212,22 @@ Russian, English
 :   Equally uncomfortable.\
 
 Clojure
-:   What I get to use for my current projects.\
+:   What I get to use on the job. Can't complain.\
 
 Racket
 :   Favorite Lisp. Would be my weapon of choice were such choice ever offered.\
+
+Emacs Lisp
+:   Unavoidable Lisp for any Emacs user. It is surprisingly fun to code.\
 
 JavaScript
 :   Wrote fair amount, mostly backend compiler stuff with Node.js.\
 
 OMeta
-:   Extensive experience writing parsers and fairly complex grammars.\
+:   Extensive experience writing parsers with complex and context dependent grammars.\
 
-Emacs Lisp
-:   Unavoidable Lisp.\
+Redex
+:   Can implement executable semantics for your pet-language or DSL.\
 
 Java
 :   Enough to write a Clojure wrapper with necessary bindings.\
@@ -201,8 +235,11 @@ Java
 C
 : Enough to pass a systems programming class but not nearly enough to actually use it.\
 
-Factor, OCaml, Lua
-:   Toyed with but never used in earnest.
+Factor, OCaml, Lua, Rust
+:   Toyed with but never used in earnest. I
+    [ported](https://github.com/vkz/prelude/blob/master/tables.rkt) some good
+    ideas from Lua to Racket and contributed a patch to
+    [racer-rust](https://github.com/racer-rust/racer).
 
 Activities and interests
 ------------------------

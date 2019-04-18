@@ -5,13 +5,13 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>index</title>
-  <style type="text/css">
+  <style>
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
@@ -20,23 +20,24 @@
 <h1 id="vladilen-kozin">Vladilen Kozin</h1>
 <hr />
 <blockquote>
-<p><strong>Clojure</strong>, <strong>ClojureScript</strong>, <strong>Racket</strong>, <strong>Redex</strong>, <strong>JavaScript</strong>, <strong>OMeta</strong>, <strong>meta-programming</strong><br />
-Fall’13 <a href="https://www.recurse.com/">Recurse Center</a> (aka Hacker School) alum</p>
+<p><strong>Clojure(Script)</strong>, <strong>Racket</strong>, <strong>Emacs Lisp</strong>, <strong>Redex</strong>, <strong>JavaScript</strong>, <strong>OMeta</strong>, <strong>meta-programming</strong><br />
+Fall’13 <a href="https://www.recurse.com/">Recurse Center</a> (aka Hacker School) alum<br />
+UK Tier 1 <a href="https://www.gov.uk/tier-1-exceptional-talent">Exceptional Talent visa</a> holder</p>
 </blockquote>
 <hr />
 <h2 id="corporate-ladder">Corporate ladder</h2>
 <dl>
-<dt>Since Apr 2017</dt>
+<dt>Apr-Nov 2017</dt>
 <dd><p><em>Senior Programmer</em> at <a href="http://droitfintech.com/">Droit</a> (London, UK)</p>
 <p>Same as before but with obligatory daily commute.</p>
 </dd>
 <dt>2015-2017</dt>
 <dd><p><em>Programmer/Consultant</em> at <a href="http://droitfintech.com/">Droit</a> (New York, USA - remote)</p>
-<p>Building an expert system for compliant trading. Sneaking Clojure/ClojureScript into unsuspecting financial giants. On any given day I could be designing DSLs, implementing compilers, parsers, rule-based engines, putting together simple browser-based GUIs and whatever else the startup life would have me do.</p>
+<p>Building an expert system for compliant trading. Sneaking Clojure(Script) into unsuspecting financial giants. On any given day I could be designing DSLs, implementing compilers, parsers, rule-based engines, putting together simple browser-based GUIs and whatever else the startup life would have me do.</p>
 </dd>
 <dt>2014-2015</dt>
 <dd><p><em>Programmer</em> at <a href="https://company.yandex.com/">Yandex</a> (Moscow, Russia).</p>
-<p>Officially a member of <em>Search Interfaces Development Infrastructure</em> group, but mostly I write backend tools that perform source to source compilation: parse, transform and generate code. Any given project will inevitably depend on: <a href="https://github.com/veged/ometa-js">ometajs</a>, <a href="http://esprima.org/">esprima</a>, <a href="https://github.com/estools/estraverse">estraverse</a>, <a href="https://github.com/mishoo/UglifyJS">uglify-js</a>, <a href="https://github.com/estools/escodegen">escodegen</a>, <a href="https://github.com/veged/xjst">xjst</a>. If I’m lucky and do it right frontend developers get to use my work and get all the credit.</p>
+<p>Officially a member of <em>Search Interfaces Development Infrastructure</em> group, but mostly I wrote backend tools for source to source compilation - engines to write your template engines. If I were lucky and did it right frontend developers would get to use my work and take all the credit.</p>
 </dd>
 <dt>2009-2011</dt>
 <dd><em>Equity Derivatives &amp; Structured Products Sales</em> at <a href="https://www.rencap.com/InvestmentBanking/About/">Renaissance Capital</a> (Moscow, Russia).
@@ -47,12 +48,20 @@ Fall’13 <a href="https://www.recurse.com/">Recurse Center</a> (aka Hacker Scho
 </dl>
 <h2 id="projects">Projects</h2>
 <dl>
+<dt>Emacs Lisp</dt>
+<dd><em>Author</em> of <a href="https://github.com/vkz/multi">multi.el</a> - all things multiple dispatch for Emacs Lisp: type driven dispatch with <em>protocols</em>, ad-hoc polymorphism with <em>multi-methods</em>, pattern-matching and destructuring without noise with <em>multi-patterns</em>, case-dispatch with <em>multi-defuns</em>, benchmarking with <em>multi-benchmarks</em>.
+</dd>
 <dt>Racket</dt>
-<dd><p><em>Author</em> of <a href="https://github.com/vkz/ometa-racket">ometa-racket</a>, a mostly complete Racket implementation of <a href="http://en.wikipedia.org/wiki/OMeta">OMeta</a> - OO pattern-matching language that extends PEGs with ability to handle left-recursive rules and match structured data.</p>
+<dd><p><em>Author</em> of <a href="https://github.com/vkz/prelude">prelude</a> that extends Racket with generic associative API, Lua-style meta-tables for prototypal inheritance and more.</p>
+<p><em>Author</em> of <a href="https://github.com/vkz/ponzi">ponzi</a> - the beginnings of a clever Scheme for a discerning smart contract builder. WIP but it does implement the Ethereum Virtual Machine close enough to the Yellow Paper.</p>
+<p><em>Author</em> of <a href="https://github.com/vkz/ometa-racket">ometa-racket</a>, a mostly complete Racket implementation of <a href="http://en.wikipedia.org/wiki/OMeta">OMeta</a> - OO pattern-matching language that extends PEGs with ability to handle left-recursive rules and match structured data.</p>
 <p><em>Author</em> of <a href="https://github.com/vkz/skish">skish</a>, a mostly futile attempt at porting Olin Shivers’ wonderful <a href="http://scsh.net/">scsh</a> to Racket. scsh is a non-interactive Unix shell embedded within Scheme (originally Scheme48).</p>
+<p><em>Contributor</em> to Racket the language.</p>
 </dd>
 <dt>Clojure</dt>
 <dd><p><em>Author</em> of several closed-source products: FpML message parser, financial derivatives classifier based on ISDA taxonomies, legal annotation tools, PDF and XML content extractor and transformation tools.</p>
+<p><em>Author</em> of <a href="https://github.com/vkz/playrum">bot</a> - a crypto-currency arbitrager that could talk to several exchanges including Bitfinex and GDAX. It uses Clojure Spec to parse and validate protocol messages and <a href="https://github.com/ztellman/aleph">aleph</a> for async communication and concurrency.</p>
+<p><em>Author</em> of <a href="https://github.com/vkz/playrum">playrum</a> - just getting the taste for React in ClojureScript.</p>
 <p><em>Contributor</em> to <a href="https://github.com/cgrand/seqexp/pull/6">seqexp</a>, regular expressions for Clojure sequences.</p>
 </dd>
 <dt>JavaScript</dt>
@@ -114,6 +123,16 @@ MIT for edX</p>
 <a href="https://summer-school.racket-lang.org/2017/">The Racket Summer School of Semantics and Languages</a> in Salt Lake City, Utah.</p>
 <p>While targeted at PL PhDs a bunch of us non-academic types had been admitted. Learnt to create languages quickly and back them up with runnable reduction semantics - what’s not to like?</p>
 </dd>
+<dt>2018</dt>
+<dd>Language-oriented Programming and Language Building<br />
+<a href="https://summer-school.racket-lang.org/2018/">The Racket Summer School 2018</a> in Salt Lake City, Utah.
+</dd>
+</dl>
+<h2 id="public-speaking">Public Speaking</h2>
+<dl>
+<dt>due July 2019</dt>
+<dd>I will be an invited speaker at <a href="https://con.racket-lang.org/">RacketCon’19</a> in Utah
+</dd>
 </dl>
 <h2 id="languages">Languages</h2>
 <dl>
@@ -122,11 +141,15 @@ MIT for edX</p>
 
 </dd>
 <dt>Clojure</dt>
-<dd>What I get to use for my current projects.<br />
+<dd>What I get to use on the job. Can’t complain.<br />
 
 </dd>
 <dt>Racket</dt>
 <dd>Favorite Lisp. Would be my weapon of choice were such choice ever offered.<br />
+
+</dd>
+<dt>Emacs Lisp</dt>
+<dd>Unavoidable Lisp for any Emacs user. It is surprisingly fun to code.<br />
 
 </dd>
 <dt>JavaScript</dt>
@@ -134,11 +157,11 @@ MIT for edX</p>
 
 </dd>
 <dt>OMeta</dt>
-<dd>Extensive experience writing parsers and fairly complex grammars.<br />
+<dd>Extensive experience writing parsers with complex and context dependent grammars.<br />
 
 </dd>
-<dt>Emacs Lisp</dt>
-<dd>Unavoidable Lisp.<br />
+<dt>Redex</dt>
+<dd>Can implement executable semantics for your pet-language or DSL.<br />
 
 </dd>
 <dt>Java</dt>
@@ -149,8 +172,8 @@ MIT for edX</p>
 <dd>Enough to pass a systems programming class but not nearly enough to actually use it.<br />
 
 </dd>
-<dt>Factor, OCaml, Lua</dt>
-<dd>Toyed with but never used in earnest.
+<dt>Factor, OCaml, Lua, Rust</dt>
+<dd>Toyed with but never used in earnest. I <a href="https://github.com/vkz/prelude/blob/master/tables.rkt">ported</a> some good ideas from Lua to Racket and contributed a patch to <a href="https://github.com/racer-rust/racer">racer-rust</a>.
 </dd>
 </dl>
 <h2 id="activities-and-interests">Activities and interests</h2>
@@ -159,7 +182,7 @@ MIT for edX</p>
 <hr />
 <blockquote>
 <p><br />
-<a href="mailto:vladilen.kozin@gmail.com">vladilen.kozin@gmail.com</a> • +44 7494979 626 • London, UK<br />
+<a href="mailto:vladilen.kozin@gmail.com" class="email">vladilen.kozin@gmail.com</a> • +44 7494979 626 • London, UK<br />
 <a href="index.pdf">pdf version</a> • <a href="index.txt">txt version</a> • <a href="index.docx">doc version</a> • <a href="index.html">html version</a></p>
 </blockquote>
 </body>

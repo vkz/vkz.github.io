@@ -5,16 +5,17 @@ VLADILEN KOZIN
 
 ------------------------------------------------------------------------
 
-  CLOJURE, CLOJURESCRIPT, RACKET, REDEX, JAVASCRIPT, OMETA,
+  CLOJURE(SCRIPT), RACKET, EMACS LISP, REDEX, JAVASCRIPT, OMETA,
   META-PROGRAMMING
   Fall’13 Recurse Center (aka Hacker School) alum
+  UK Tier 1 Exceptional Talent visa holder
 
 ------------------------------------------------------------------------
 
 
 Corporate ladder
 
-Since Apr 2017
+Apr-Nov 2017
 
     _Senior Programmer_ at Droit (London, UK)
 
@@ -25,21 +26,20 @@ Since Apr 2017
     _Programmer/Consultant_ at Droit (New York, USA - remote)
 
     Building an expert system for compliant trading. Sneaking
-    Clojure/ClojureScript into unsuspecting financial giants. On any
-    given day I could be designing DSLs, implementing compilers,
-    parsers, rule-based engines, putting together simple browser-based
-    GUIs and whatever else the startup life would have me do.
+    Clojure(Script) into unsuspecting financial giants. On any given day
+    I could be designing DSLs, implementing compilers, parsers,
+    rule-based engines, putting together simple browser-based GUIs and
+    whatever else the startup life would have me do.
 
 2014-2015
 
     _Programmer_ at Yandex (Moscow, Russia).
 
     Officially a member of _Search Interfaces Development
-    Infrastructure_ group, but mostly I write backend tools that perform
-    source to source compilation: parse, transform and generate code.
-    Any given project will inevitably depend on: ometajs, esprima,
-    estraverse, uglify-js, escodegen, xjst. If I’m lucky and do it right
-    frontend developers get to use my work and get all the credit.
+    Infrastructure_ group, but mostly I wrote backend tools for source
+    to source compilation - engines to write your template engines. If I
+    were lucky and did it right frontend developers would get to use my
+    work and take all the credit.
 
 2009-2011
     _Equity Derivatives & Structured Products Sales_ at Renaissance
@@ -52,7 +52,21 @@ Since Apr 2017
 
 Projects
 
+Emacs Lisp
+    _Author_ of multi.el - all things multiple dispatch for Emacs Lisp:
+    type driven dispatch with _protocols_, ad-hoc polymorphism with
+    _multi-methods_, pattern-matching and destructuring without noise
+    with _multi-patterns_, case-dispatch with _multi-defuns_,
+    benchmarking with _multi-benchmarks_.
+
 Racket
+
+    _Author_ of prelude that extends Racket with generic associative
+    API, Lua-style meta-tables for prototypal inheritance and more.
+
+    _Author_ of ponzi - the beginnings of a clever Scheme for a
+    discerning smart contract builder. WIP but it does implement the
+    Ethereum Virtual Machine close enough to the Yellow Paper.
 
     _Author_ of ometa-racket, a mostly complete Racket implementation of
     OMeta - OO pattern-matching language that extends PEGs with ability
@@ -62,12 +76,22 @@ Racket
     wonderful scsh to Racket. scsh is a non-interactive Unix shell
     embedded within Scheme (originally Scheme48).
 
+    _Contributor_ to Racket the language.
+
 Clojure
 
     _Author_ of several closed-source products: FpML message parser,
     financial derivatives classifier based on ISDA taxonomies, legal
     annotation tools, PDF and XML content extractor and transformation
     tools.
+
+    _Author_ of bot - a crypto-currency arbitrager that could talk to
+    several exchanges including Bitfinex and GDAX. It uses Clojure Spec
+    to parse and validate protocol messages and aleph for async
+    communication and concurrency.
+
+    _Author_ of playrum - just getting the taste for React in
+    ClojureScript.
 
     _Contributor_ to seqexp, regular expressions for Clojure sequences.
 
@@ -163,6 +187,16 @@ Autodidacticisms
     admitted. Learnt to create languages quickly and back them up with
     runnable reduction semantics - what’s not to like?
 
+2018
+    Language-oriented Programming and Language Building
+    The Racket Summer School 2018 in Salt Lake City, Utah.
+
+
+Public Speaking
+
+due July 2019
+    I will be an invited speaker at RacketCon’19 in Utah
+
 
 Languages
 
@@ -170,20 +204,24 @@ Russian, English
     Equally uncomfortable.
 
 Clojure
-    What I get to use for my current projects.
+    What I get to use on the job. Can’t complain.
 
 Racket
     Favorite Lisp. Would be my weapon of choice were such choice ever
     offered.
 
+Emacs Lisp
+    Unavoidable Lisp for any Emacs user. It is surprisingly fun to code.
+
 JavaScript
     Wrote fair amount, mostly backend compiler stuff with Node.js.
 
 OMeta
-    Extensive experience writing parsers and fairly complex grammars.
+    Extensive experience writing parsers with complex and context
+    dependent grammars.
 
-Emacs Lisp
-    Unavoidable Lisp.
+Redex
+    Can implement executable semantics for your pet-language or DSL.
 
 Java
     Enough to write a Clojure wrapper with necessary bindings.
@@ -192,8 +230,9 @@ C
     Enough to pass a systems programming class but not nearly enough to
     actually use it.
 
-Factor, OCaml, Lua
-    Toyed with but never used in earnest.
+Factor, OCaml, Lua, Rust
+    Toyed with but never used in earnest. I ported some good ideas from
+    Lua to Racket and contributed a patch to racer-rust.
 
 
 Activities and interests
