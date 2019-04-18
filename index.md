@@ -259,29 +259,48 @@ Languages
 Russian, English
 :   Equally uncomfortable.
 
+    \
+
 Clojure
 :   What I get to use on the job. Can't complain.
+
+    \
 
 Racket
 :   Favorite Lisp. Would be my weapon of choice were such choice ever offered.
 
+    \
+
 Emacs Lisp
 :   Unavoidable Lisp for any Emacs user. It is surprisingly fun to code.
+
+    \
 
 JavaScript
 :   Wrote fair amount, mostly backend compiler stuff with Node.js.
 
+    \
+
 OMeta
 :   Extensive experience writing parsers with complex and context dependent grammars.
+
+    \
 
 Redex
 :   Can implement executable semantics for your pet-language or DSL.
 
+    \
+
 Java
 :   Enough to write a Clojure wrapper with necessary bindings.
 
+    \
+
 C
-: Enough to pass a systems programming class but not nearly enough to actually use it.
+:   Enough to pass a systems programming class but not nearly enough to actually
+    use it.
+
+    \
 
 Factor, OCaml, Lua, Rust, Shen
 :   Toyed with but never used in earnest. I
