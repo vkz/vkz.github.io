@@ -70,7 +70,13 @@ Emacs Lisp
     \
 
 Racket
-:   *Author* of [prelude](https://github.com/vkz/prelude) that extends Racket with
+:   *Author* of [tilda](https://github.com/vkz/tilda) an opinionated threading
+    macro with self-documenting hole-markers, clause level keyword options and an
+    implicit escape continuation.
+
+    \
+
+    *Author* of [prelude](https://github.com/vkz/prelude) that extends Racket with
     generic associative API, Lua-style meta-tables for prototypal inheritance and
     more.
 
@@ -107,7 +113,7 @@ Clojure
 
     \
 
-    *Author* of [bot](https://github.com/vkz/playrum) - a crypto-currency
+    *Author* of [bot](https://github.com/vkz/bot) - a crypto-currency
     arbitrager that could talk to several exchanges including Bitfinex and GDAX.
     It uses Clojure Spec to parse and validate protocol messages and
     [aleph](https://github.com/ztellman/aleph) for async communication and
