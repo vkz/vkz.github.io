@@ -23,7 +23,7 @@ Apr-Nov 2017
 2015-2017
 :   *Programmer/Consultant* at
     [Droit](http://droitfintech.com/)
-    (New York, USA - remote)
+    (remote and New York, USA)
 
     Building an expert system for compliant trading. Sneaking Clojure(Script) into
     unsuspecting financial giants. On any given day I could be designing DSLs,
@@ -162,6 +162,20 @@ JavaScript
     compiler for BEMHTML templates.
 
 
+Public Speaking
+---------------
+
+due Jul 2019
+:   talk accepted for [RacketCon'19](https://con.racket-lang.org/) (Salt Lake City,
+    USA)
+
+    \
+   
+due Sep 2019
+:   talk accepted for [Strange Loop'19](https://www.thestrangeloop.com/) (St.
+    Louis, USA)
+
+
 Formal education
 ----------------
 2004–2006
@@ -186,13 +200,13 @@ Autodidacticisms
 2018
 :   Language-oriented Programming and Language Building\
     [The Racket Summer School 2018](https://summer-school.racket-lang.org/2018/)
-    in Salt Lake City, Utah.
+    (Salt Lake City, USA)
 
     \
 
 2017
 :   [Redex](https://redex.racket-lang.org/) for designing operational semantics\
-    [The Racket Summer School of Semantics and Languages](https://summer-school.racket-lang.org/2017/) in Salt Lake City, Utah.
+    [The Racket Summer School of Semantics and Languages](https://summer-school.racket-lang.org/2017/) (Salt Lake City, USA)
     
     While targeted at PL PhDs a bunch of us non-academic types had been
     admitted. Learnt to create languages quickly and back them up with runnable
@@ -252,12 +266,6 @@ Autodidacticisms
 
     How I was introduced to programming. [Assorted solutions to HtDP](https://github.com/vkz/HtDP).
 
-    
-Public Speaking
----------------
-
-due July 2019
-:   I will be an invited speaker at [RacketCon'19](https://con.racket-lang.org/) in Utah
 
 Languages
 ---------

@@ -23,7 +23,7 @@ Apr-Nov 2017
 
 2015-2017
 
-    _Programmer/Consultant_ at Droit (New York, USA - remote)
+    _Programmer/Consultant_ at Droit (remote and New York, USA)
 
     Building an expert system for compliant trading. Sneaking
     Clojure(Script) into unsuspecting financial giants. On any given day
@@ -120,6 +120,16 @@ JavaScript
     templates.
 
 
+Public Speaking
+
+due Jul 2019
+
+    talk accepted for RacketCon’19 (Salt Lake City, USA)
+
+due Sep 2019
+    talk accepted for Strange Loop’19 (St. Louis, USA)
+
+
 Formal education
 
 2004–2006
@@ -142,13 +152,13 @@ Autodidacticisms
 2018
 
     Language-oriented Programming and Language Building
-    The Racket Summer School 2018 in Salt Lake City, Utah.
+    The Racket Summer School 2018 (Salt Lake City, USA)
 
 2017
 
     Redex for designing operational semantics
-    The Racket Summer School of Semantics and Languages in Salt Lake
-    City, Utah.
+    The Racket Summer School of Semantics and Languages (Salt Lake City,
+    USA)
 
     While targeted at PL PhDs a bunch of us non-academic types had been
     admitted. Learnt to create languages quickly and back them up with
@@ -197,12 +207,6 @@ Autodidacticisms
     How to Design Programs by Matthias Felleisen et al.
 
     How I was introduced to programming. Assorted solutions to HtDP.
-
-
-Public Speaking
-
-due July 2019
-    I will be an invited speaker at RacketCon’19 in Utah
 
 
 Languages
