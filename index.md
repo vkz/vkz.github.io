@@ -166,13 +166,13 @@ Public Speaking
 ---------------
 
 due Jul 2019
-:   talk accepted for [RacketCon'19](https://con.racket-lang.org/) (Salt Lake City,
+:   talk accepted for [RacketCon'19](https://con.racket-lang.org/#speakers) (Salt Lake City,
     USA)
 
     \
    
 due Sep 2019
-:   talk accepted for [Strange Loop'19](https://www.thestrangeloop.com/) (St.
+:   talk accepted for [Strange Loop'19](https://www.thestrangeloop.com/2019/number-lang-wishful-thinking.html) (St.
     Louis, USA)
 
 
