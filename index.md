@@ -165,7 +165,7 @@ JavaScript
 Public Speaking
 ---------------
 
-due Jul 2019
+Jul 2019
 :   [talk](https://youtu.be/xSjk2PdQm5k?t=22405) at [RacketCon'19](https://con.racket-lang.org/#speakers) (Salt Lake City,
     USA)
 

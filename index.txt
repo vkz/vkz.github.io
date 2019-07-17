@@ -122,7 +122,7 @@ JavaScript
 
 Public Speaking
 
-due Jul 2019
+Jul 2019
 
     talk at RacketCon’19 (Salt Lake City, USA)
 
