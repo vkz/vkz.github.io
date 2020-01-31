@@ -11,6 +11,16 @@ Vladilen Kozin
 
 Corporate ladder
 ----------------
+Jul-Dec 2019
+:   *Senior Programmer* at
+    [All Street Research](https://www.allstreet.org)
+    (London, UK)
+
+    Building cognitive assistant for investment research in
+    Clojure(Script). Front and back, AI, NLP, and more buzzwords here.
+
+    \
+
 Apr-Nov 2017
 :   *Senior Programmer* at
     [Droit](http://droitfintech.com/)
@@ -165,16 +175,15 @@ JavaScript
 Public Speaking
 ---------------
 
-Jul 2019
-:   [talk](https://youtu.be/xSjk2PdQm5k?t=22405) at [RacketCon'19](https://con.racket-lang.org/#speakers) (Salt Lake City,
-    USA)
+Sep 2019
+:   [talk](https://youtu.be/yU-HUb8Xykg) at [Strange Loop'19](https://www.thestrangeloop.com/2019/number-lang-wishful-thinking.html) (St.
+    Louis, USA)
 
     \
    
-due Sep 2019
-:   talk accepted for [Strange Loop'19](https://www.thestrangeloop.com/2019/number-lang-wishful-thinking.html) (St.
-    Louis, USA)
-
+Jul 2019
+:   [talk](https://youtu.be/sy2TzZO70E4) at [RacketCon'19](https://con.racket-lang.org/#speakers) (Salt Lake City,
+    USA)
 
 Formal education
 ----------------

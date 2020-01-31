@@ -15,6 +15,13 @@ VLADILEN KOZIN
 
 Corporate ladder
 
+Jul-Dec 2019
+
+    _Senior Programmer_ at All Street Research (London, UK)
+
+    Building cognitive assistant for investment research in
+    Clojure(Script). Front and back, AI, NLP, and more buzzwords here.
+
 Apr-Nov 2017
 
     _Senior Programmer_ at Droit (London, UK)
@@ -122,12 +129,12 @@ JavaScript
 
 Public Speaking
 
+Sep 2019
+
+    talk at Strange Loop’19 (St. Louis, USA)
+
 Jul 2019
-
     talk at RacketCon’19 (Salt Lake City, USA)
-
-due Sep 2019
-    talk accepted for Strange Loop’19 (St. Louis, USA)
 
 
 Formal education
