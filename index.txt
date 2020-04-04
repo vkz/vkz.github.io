@@ -5,7 +5,7 @@ VLADILEN KOZIN
 
 ------------------------------------------------------------------------
 
-  CLOJURE(SCRIPT), RACKET, EMACS LISP, REDEX, JAVASCRIPT, OMETA,
+  CLOJURE(SCRIPT), RACKET, EMACS LISP, TCL, REDEX, OMETA,
   META-PROGRAMMING
   Fall’13 Recurse Center (aka Hacker School) alum
   UK Tier 1 Exceptional Talent visa holder
@@ -233,6 +233,9 @@ Emacs Lisp
 
 JavaScript
     Wrote fair amount, mostly backend compiler stuff with Node.js.
+
+TCL
+    Happy parallel universe where people no longer write Shell scripts.
 
 OMeta
     Extensive experience writing parsers with complex and context

@@ -3,7 +3,7 @@ Vladilen Kozin
 
 ----
 
-> __Clojure(Script)__, __Racket__, __Emacs Lisp__, __Redex__, __JavaScript__, __OMeta__, __meta-programming__\
+> __Clojure(Script)__, __Racket__, __Emacs Lisp__, __TCL__, __Redex__, __OMeta__, __meta-programming__\
 > Fall'13 [Recurse Center](https://www.recurse.com/) (aka Hacker School) alum\
 > UK Tier 1 [Exceptional Talent visa](https://www.gov.uk/tier-1-exceptional-talent) holder
 
@@ -293,6 +293,9 @@ Emacs Lisp
 
 JavaScript
 :   Wrote fair amount, mostly backend compiler stuff with Node.js.
+
+TCL
+:   Happy parallel universe where people no longer write Shell scripts.
 
 OMeta
 :   Extensive experience writing parsers with complex and context dependent grammars.
