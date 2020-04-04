@@ -74,8 +74,9 @@ Racket
     self-documenting hole-markers, clause level keyword options and an
     implicit escape continuation.
 
-    _Author_ of prelude that extends Racket with generic associative
-    API, Lua-style meta-tables for prototypal inheritance and more.
+    _Author_ of racket/tables that extends Racket with first class
+    Lua-style meta-tables for prototypal inheritance, generic
+    associative API and more. Watch my RacketCon’19 talk.
 
     _Author_ of ponzi - the beginnings of a clever Scheme for a
     discerning smart contract builder. WIP but it does implement the

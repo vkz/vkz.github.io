@@ -86,9 +86,11 @@ Racket
 
     \
 
-    *Author* of [prelude](https://github.com/vkz/prelude) that extends Racket with
-    generic associative API, Lua-style meta-tables for prototypal inheritance and
-    more.
+    *Author* of
+    [racket/tables](https://github.com/vkz/tables/blob/master/tables/main.rkt)
+    that extends Racket with first class Lua-style meta-tables for
+    prototypal inheritance, generic associative API and more. Watch my
+    [RacketCon'19](https://youtu.be/sy2TzZO70E4) talk.
 
     \
 
