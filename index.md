@@ -119,7 +119,17 @@ Racket
     \
 
 Clojure
-:   *Author* of several closed-source products: FpML message parser, financial
+:    *Author* of [fullmeta
+     web](https://github.com/vkz/fullmeta/tree/master/clj/src/fullmeta) -
+     Dynamic language deserves a dynamic web "framework": load www
+     routes from Clojure namespaces "on the fly" - CGI style; render
+     HTML and CSS. Utility-first local CSS vs selector-targeting is a
+     stupid dichotomy - allow both! Other goodies: multi methods with
+     per-position :default; helpful prelude functions, etc.
+
+    \
+    
+    *Author* of several closed-source products: FpML message parser, financial
     derivatives classifier based on ISDA taxonomies, legal annotation tools, PDF
     and XML content extractor and transformation tools.
 
