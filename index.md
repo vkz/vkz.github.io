@@ -11,6 +11,11 @@ Vladilen Kozin
 
 Corporate ladder
 ----------------
+Dec 2019-now
+:   *Contracting* gigs
+
+    \
+
 Jul-Dec 2019
 :   *Senior Programmer* at
     [All Street Research](https://www.allstreet.org)
