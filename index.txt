@@ -61,38 +61,6 @@ Apr-Nov 2017
 
 Sample Projects
 
-Emacs Lisp
-
-    Author of multi.el - all things multiple dispatch for Emacs Lisp:
-    type driven dispatch with protocols, ad-hoc polymorphism with
-    multi-methods, pattern-matching and destructuring without noise with
-    multi-patterns, case-dispatch with multi-defuns, benchmarking with
-    multi-benchmarks.
-
-Racket
-
-    Author of tilda an opinionated threading macro with self-documenting
-    hole-markers, clause level keyword options and an implicit escape
-    continuation.
-
-    Author of racket/tables that extends Racket with first class
-    Lua-style meta-tables for prototypal inheritance, generic
-    associative API and more. Watch my RacketCon’19 talk.
-
-    Author of ponzi - the beginnings of a clever Scheme for a discerning
-    smart contract builder. WIP but it does implement the Ethereum
-    Virtual Machine close enough to the Yellow Paper.
-
-    Author of ometa-racket, a mostly complete Racket implementation of
-    OMeta - OO pattern-matching language that extends PEGs with ability
-    to handle left-recursive rules and match structured data.
-
-    Author of skish, a mostly futile attempt at porting Olin Shivers’
-    wonderful scsh to Racket. scsh is a non-interactive Unix shell
-    embedded within Scheme (originally Scheme48).
-
-    Contributor to Racket the language.
-
 Clojure
 
     Author of fullmeta web - Dynamic language deserves a dynamic web
@@ -116,6 +84,40 @@ Clojure
     ClojureScript.
 
     Contributor to seqexp, regular expressions for Clojure sequences.
+
+Emacs Lisp
+
+    Author of multi.el - all things multiple dispatch for Emacs Lisp:
+    type driven dispatch with protocols, ad-hoc polymorphism with
+    multi-methods, pattern-matching and destructuring without noise with
+    multi-patterns, case-dispatch with multi-defuns, benchmarking with
+    multi-benchmarks.
+
+Racket
+
+    Author of tilda an opinionated threading macro with self-documenting
+    hole-markers, clause level keyword options and an implicit escape
+    continuation.
+
+    Author of racket/tables that extends Racket with first class
+    Lua-style meta-tables for prototypal inheritance, generic
+    associative API and more. Watch my RacketCon’19 talk.
+
+    Author of FastCGI in Racket that relies on my racket/tables
+
+    Author of ponzi - the beginnings of a clever Scheme for a discerning
+    smart contract builder. WIP but it does implement the Ethereum
+    Virtual Machine close enough to the Yellow Paper.
+
+    Author of ometa-racket, a mostly complete Racket implementation of
+    OMeta - OO pattern-matching language that extends PEGs with ability
+    to handle left-recursive rules and match structured data.
+
+    Author of skish, a mostly futile attempt at porting Olin Shivers’
+    wonderful scsh to Racket. scsh is a non-interactive Unix shell
+    embedded within Scheme (originally Scheme48).
+
+    Contributor to Racket the language.
 
 Guile Scheme
 

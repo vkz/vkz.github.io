@@ -81,53 +81,6 @@ Apr-Nov 2017
 
 Sample Projects
 ---------------
-Emacs Lisp
-:   *Author* of [multi.el](https://github.com/vkz/multi) - all things multiple
-    dispatch for Emacs Lisp: type driven dispatch with *protocols*, ad-hoc
-    polymorphism with *multi-methods*, pattern-matching and destructuring without
-    noise with *multi-patterns*, case-dispatch with *multi-defuns*, benchmarking
-    with *multi-benchmarks*.
-
-    \
-
-Racket
-:   *Author* of [tilda](https://github.com/vkz/tilda) an opinionated threading
-    macro with self-documenting hole-markers, clause level keyword options and an
-    implicit escape continuation.
-
-    \
-
-    *Author* of
-    [racket/tables](https://github.com/vkz/tables/blob/master/tables/main.rkt)
-    that extends Racket with first class Lua-style meta-tables for
-    prototypal inheritance, generic associative API and more. Watch my
-    [RacketCon'19](https://youtu.be/sy2TzZO70E4) talk.
-
-    \
-
-    *Author* of [ponzi](https://github.com/vkz/ponzi) - the beginnings of a clever
-    Scheme for a discerning smart contract builder. WIP but it does implement the
-    Ethereum Virtual Machine close enough to the Yellow Paper.
-
-    \
-
-    *Author* of [ometa-racket](https://github.com/vkz/ometa-racket), a mostly
-    complete Racket implementation of
-    [OMeta](http://en.wikipedia.org/wiki/OMeta) - OO pattern-matching language
-    that extends PEGs with ability to handle left-recursive rules and match
-    structured data.
-
-    \
-
-    *Author* of [skish](https://github.com/vkz/skish), a mostly futile attempt at
-    porting Olin Shivers' wonderful [scsh](http://scsh.net/) to Racket. scsh is
-    a non-interactive Unix shell embedded within Scheme (originally Scheme48).
-
-    \
-
-    *Contributor* to Racket the language.
-
-    \
 
 Clojure
 :    *Author* of [fullmeta
@@ -161,6 +114,61 @@ Clojure
 
     *Contributor* to [seqexp](https://github.com/cgrand/seqexp/pull/6), regular
     expressions for Clojure sequences.
+
+    \
+
+Emacs Lisp
+:   *Author* of [multi.el](https://github.com/vkz/multi) - all things multiple
+    dispatch for Emacs Lisp: type driven dispatch with *protocols*, ad-hoc
+    polymorphism with *multi-methods*, pattern-matching and destructuring without
+    noise with *multi-patterns*, case-dispatch with *multi-defuns*, benchmarking
+    with *multi-benchmarks*.
+
+    \
+
+Racket
+:   *Author* of [tilda](https://github.com/vkz/tilda) an opinionated threading
+    macro with self-documenting hole-markers, clause level keyword options and an
+    implicit escape continuation.
+
+    \
+
+    *Author* of
+    [racket/tables](https://github.com/vkz/tables/blob/master/tables/main.rkt)
+    that extends Racket with first class Lua-style meta-tables for
+    prototypal inheritance, generic associative API and more. Watch my
+    [RacketCon'19](https://youtu.be/sy2TzZO70E4) talk.
+
+    \
+    
+    *Author* of
+    [FastCGI in
+    Racket](https://github.com/vkz/fcgi.rkt/blob/master/fcgi.rkt) that
+    relies on my [racket/tables](https://github.com/vkz/tables/blob/master/tables/main.rkt)
+
+    \
+    
+    *Author* of [ponzi](https://github.com/vkz/ponzi) - the beginnings of a clever
+    Scheme for a discerning smart contract builder. WIP but it does implement the
+    Ethereum Virtual Machine close enough to the Yellow Paper.
+
+    \
+
+    *Author* of [ometa-racket](https://github.com/vkz/ometa-racket), a mostly
+    complete Racket implementation of
+    [OMeta](http://en.wikipedia.org/wiki/OMeta) - OO pattern-matching language
+    that extends PEGs with ability to handle left-recursive rules and match
+    structured data.
+
+    \
+
+    *Author* of [skish](https://github.com/vkz/skish), a mostly futile attempt at
+    porting Olin Shivers' wonderful [scsh](http://scsh.net/) to Racket. scsh is
+    a non-interactive Unix shell embedded within Scheme (originally Scheme48).
+
+    \
+
+    *Contributor* to Racket the language.
 
     \
 
