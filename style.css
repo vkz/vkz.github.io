@@ -9,6 +9,7 @@
 
 /* Whole document */
 body {
+    line-height: 1.2;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     width: 800px;
     margin: auto;

@@ -1,36 +1,38 @@
-
-
-VLADILEN KOZIN
-
+Vladilen Kozin
 
 ------------------------------------------------------------------------
 
-  CLOJURE(SCRIPT), RACKET, EMACS LISP, TCL, REDEX, OMETA,
-  META-PROGRAMMING
-  Fall’13 Recurse Center (aka Hacker School) alum
+  Clojure, Racket, Emacs Lisp, Guile Scheme, TCL, Redex, OMeta, etc
   UK Tier 1 Exceptional Talent visa holder
+  Fall’13 Recurse Center alum
+  Former Yandex
 
 ------------------------------------------------------------------------
-
 
 Corporate ladder
 
+Dec 2019-now
+
+    Director and sole proprietor at Fullmeta Capital Ltd (London, UK)
+
+    Contracting gigs with startups and financial institutions.
+
 Jul-Dec 2019
 
-    _Senior Programmer_ at All Street Research (London, UK)
+    Senior Programmer at All Street Research (London, UK)
 
     Building cognitive assistant for investment research in
     Clojure(Script). Front and back, AI, NLP, and more buzzwords here.
 
 Apr-Nov 2017
 
-    _Senior Programmer_ at Droit (London, UK)
+    Senior Programmer at Droit (London, UK)
 
     Same as before but with obligatory daily commute.
 
 2015-2017
 
-    _Programmer/Consultant_ at Droit (remote and New York, USA)
+    Programmer/Consultant at Droit (remote and New York, USA)
 
     Building an expert system for compliant trading. Sneaking
     Clojure(Script) into unsuspecting financial giants. On any given day
@@ -40,93 +42,106 @@ Apr-Nov 2017
 
 2014-2015
 
-    _Programmer_ at Yandex (Moscow, Russia).
+    Programmer at Yandex (Moscow, Russia).
 
-    Officially a member of _Search Interfaces Development
-    Infrastructure_ group, but mostly I wrote backend tools for source
-    to source compilation - engines to write your template engines. If I
-    were lucky and did it right frontend developers would get to use my
-    work and take all the credit.
+    Officially a member of Search Interfaces Development Infrastructure
+    group, but mostly I wrote backend tools for source to source
+    compilation - engines to write your template engines. If I were
+    lucky and did it right frontend developers would get to use my work
+    and take all the credit.
 
 2009-2011
 
-    _Equity Derivatives & Structured Products Sales_ at Renaissance
+    Equity Derivatives & Structured Products Sales at Renaissance
     Capital (Moscow, Russia).
 
 2007-2009
-    _EM Structured Solutions and Derivatives Sales_ at Barclays Capital
+    EM Structured Solutions and Derivatives Sales at Barclays Capital
     (London, UK).
 
-
-Projects
+Sample Projects
 
 Emacs Lisp
 
-    _Author_ of multi.el - all things multiple dispatch for Emacs Lisp:
-    type driven dispatch with _protocols_, ad-hoc polymorphism with
-    _multi-methods_, pattern-matching and destructuring without noise
-    with _multi-patterns_, case-dispatch with _multi-defuns_,
-    benchmarking with _multi-benchmarks_.
+    Author of multi.el - all things multiple dispatch for Emacs Lisp:
+    type driven dispatch with protocols, ad-hoc polymorphism with
+    multi-methods, pattern-matching and destructuring without noise with
+    multi-patterns, case-dispatch with multi-defuns, benchmarking with
+    multi-benchmarks.
 
 Racket
 
-    _Author_ of tilda an opinionated threading macro with
-    self-documenting hole-markers, clause level keyword options and an
-    implicit escape continuation.
+    Author of tilda an opinionated threading macro with self-documenting
+    hole-markers, clause level keyword options and an implicit escape
+    continuation.
 
-    _Author_ of racket/tables that extends Racket with first class
+    Author of racket/tables that extends Racket with first class
     Lua-style meta-tables for prototypal inheritance, generic
     associative API and more. Watch my RacketCon’19 talk.
 
-    _Author_ of ponzi - the beginnings of a clever Scheme for a
-    discerning smart contract builder. WIP but it does implement the
-    Ethereum Virtual Machine close enough to the Yellow Paper.
+    Author of ponzi - the beginnings of a clever Scheme for a discerning
+    smart contract builder. WIP but it does implement the Ethereum
+    Virtual Machine close enough to the Yellow Paper.
 
-    _Author_ of ometa-racket, a mostly complete Racket implementation of
+    Author of ometa-racket, a mostly complete Racket implementation of
     OMeta - OO pattern-matching language that extends PEGs with ability
     to handle left-recursive rules and match structured data.
 
-    _Author_ of skish, a mostly futile attempt at porting Olin Shivers’
+    Author of skish, a mostly futile attempt at porting Olin Shivers’
     wonderful scsh to Racket. scsh is a non-interactive Unix shell
     embedded within Scheme (originally Scheme48).
 
-    _Contributor_ to Racket the language.
+    Contributor to Racket the language.
 
 Clojure
 
-    _Author_ of several closed-source products: FpML message parser,
+    Author of fullmeta web - Dynamic language deserves a dynamic web
+    “framework”: load www routes from Clojure namespaces “on the fly” -
+    CGI style; render HTML and CSS. Utility-first local CSS vs
+    selector-targeting is a stupid dichotomy - allow both! Other
+    goodies: multi methods with per-position :default; helpful prelude
+    functions, etc.
+
+    Author of several closed-source products: FpML message parser,
     financial derivatives classifier based on ISDA taxonomies, legal
     annotation tools, PDF and XML content extractor and transformation
     tools.
 
-    _Author_ of bot - a crypto-currency arbitrager that could talk to
+    Author of bot - a crypto-currency arbitrager that could talk to
     several exchanges including Bitfinex and GDAX. It uses Clojure Spec
     to parse and validate protocol messages and aleph for async
     communication and concurrency.
 
-    _Author_ of playrum - just getting the taste for React in
+    Author of playrum - just getting the taste for React in
     ClojureScript.
 
-    _Contributor_ to seqexp, regular expressions for Clojure sequences.
+    Contributor to seqexp, regular expressions for Clojure sequences.
+
+Guile Scheme
+
+    I use GNU Guix OS for bit-for-bit reproducible packaging,
+    containerized dev work and deployments. My entire OS and dev
+    environments can be instantiated from the Scheme code I write.
+
+    Unless you’re Google-scale I am positive I can do better than k8s
+    and opaque Docker images with a dash of Scheme code.
 
 JavaScript
 
-    _Author_ of bemhtml-syntax, a syntax converter for BEMHTML - an XSLT
+    Author of bemhtml-syntax, a syntax converter for BEMHTML - an XSLT
     inspired templating language - part of BEM methodology of frontend
     development.
 
-    _Author_ of bemhtml-source-convert, a _best effort_ compiler from
+    Author of bemhtml-source-convert, a best effort compiler from
     BEMHTML templates to BH templates.
 
-    _Author_ of xjst-more, an XJST-based compiler for BEMHTML templates
+    Author of xjst-more, an XJST-based compiler for BEMHTML templates
     that facilitates incremental compilation of templates potentially on
     the Client. WIP.
 
-    _Contributor_ to ometa-js, a JavaScript implementation of OMeta.
+    Contributor to ometa-js, a JavaScript implementation of OMeta.
 
-    _Contributor_ to bem-xjst, XJST-based compiler for BEMHTML
-    templates.
-
+    Contributor to bem-xjst, XJST-based compiler for BEMHTML templates.
 
 Public Speaking
 
@@ -137,23 +152,21 @@ Sep 2019
 Jul 2019
     talk at RacketCon’19 (Salt Lake City, USA)
 
-
 Formal education
 
 2004–2006
 
     Keldysh Institute of Applied Mathematics (Moscow, Russia)
-    _PhD track in Applied Mathematics, dropped out_
+    PhD track in Applied Mathematics, dropped out
 
 2004
 
     New Economic School (Moscow, Russia)
-    _MS in Economics track with full scholarship, dropped out_
+    MS in Economics track with full scholarship, dropped out
 
 1999-2004
     Lomonosov Moscow State University (Moscow, Russia)
-    _MS in Theoretical Mechanics and Applied Mathematics._
-
+    MS in Theoretical Mechanics and Applied Mathematics.
 
 Autodidacticisms
 
@@ -216,27 +229,30 @@ Autodidacticisms
 
     How I was introduced to programming. Assorted solutions to HtDP.
 
-
 Languages
 
 Russian, English
-    Equally uncomfortable.
+    What you’ll hear me speak on Zoom calls.
 
 Clojure
-    What I get to use on the job. Can’t complain.
+    What I get to use on the job most often.
 
 Racket
-    Favorite Lisp. Would be my weapon of choice were such choice ever
-    offered.
+    Used to be my favorite, but I tend to choose simpler tools now.
 
 Emacs Lisp
-    Unavoidable Lisp for any Emacs user. It is surprisingly fun to code.
+    Unavoidable Lisp for a pro Emacs user. Surprisingly fun &
+    productive.
+
+Guile Scheme
+    Unavoidable Scheme for a pro Guix user. Lively.
 
 JavaScript
-    Wrote fair amount, mostly backend compiler stuff with Node.js.
+    Wrote fair amount, mostly backend Node.js. I prefer ClojureScript.
 
 TCL
-    Happy parallel universe where people no longer write Shell scripts.
+    Happy parallel universe with Shell scripts gone. Deserves more
+    praise
 
 OMeta
     Extensive experience writing parsers with complex and context
@@ -252,10 +268,33 @@ C
     Enough to pass a systems programming class but not nearly enough to
     actually use it.
 
-Factor, OCaml, Lua, Rust, Shen
+Factor, OCaml, Lua, Rust, Shen, Erlang (via LFE)
     Toyed with but never used in earnest. I ported some good ideas from
-    Lua to Racket and contributed a patch to racer-rust.
+    Lua to Racket and contributed a patch to racer-rust. Would love to
+    use Erlang via LFE professionally.
 
+Other tools
+
+Managed and deployed OpenBSD and FreeBSD boxes but prefer Scheme code
+targeting GNU Guix. I programmed against Kafka, Elastic Search, Mongo,
+PG, SQLite. I am intimately familiar with Datomic and Datascript graph
+databases. I don’t do YAML, Docker, k8s nor should you.
+
+On interviews
+
+NB UK/EU recruiters: I am expensive
+
+NB recruiters: liaise this section with your client
+
+I hired and put together successful engineering teams from nothing.
+Interviewing is hard - I get it. That doesn’t mean you should be
+throwing random puzzles at me, unless the job specifically calls for
+“tip of your fingers” algorithmic knowledge rather than asking
+Wikipedia. I encourage you to look at my code and pair program a feature
+or debug something in one of my current projects. I’ll happily give you
+a choice of interesting problems we can work on. You’ll get to see me
+program computers and I’ll enjoy a feature or bugfix. Take home problems
+are fine, but must be paid for at my usual contracting rate.
 
 Activities and interests
 

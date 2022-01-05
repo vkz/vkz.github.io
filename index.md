@@ -3,16 +3,22 @@ Vladilen Kozin
 
 ----
 
-> __Clojure(Script)__, __Racket__, __Emacs Lisp__, __TCL__, __Redex__, __OMeta__, __meta-programming__\
-> Fall'13 [Recurse Center](https://www.recurse.com/) (aka Hacker School) alum\
-> UK Tier 1 [Exceptional Talent visa](https://www.gov.uk/tier-1-exceptional-talent) holder
+> __Clojure__, __Racket__, __Emacs Lisp__, __Guile Scheme__, __TCL__, __Redex__, __OMeta__, etc\
+> UK Tier 1 [Exceptional Talent visa](https://www.gov.uk/tier-1-exceptional-talent) holder\
+> Fall'13 [Recurse Center](https://www.recurse.com/) alum\
+> Former Yandex
+
 
 ----
 
 Corporate ladder
 ----------------
 Dec 2019-now
-:   *Contracting* gigs
+:   *Director* and *sole proprietor* at
+    Fullmeta Capital Ltd
+    (London, UK)
+    
+    Contracting gigs with startups and financial institutions.
 
     \
 
@@ -73,8 +79,8 @@ Apr-Nov 2017
 
 
 
-Projects
---------
+Sample Projects
+---------------
 Emacs Lisp
 :   *Author* of [multi.el](https://github.com/vkz/multi) - all things multiple
     dispatch for Emacs Lisp: type driven dispatch with *protocols*, ad-hoc
@@ -156,6 +162,18 @@ Clojure
     *Contributor* to [seqexp](https://github.com/cgrand/seqexp/pull/6), regular
     expressions for Clojure sequences.
 
+    \
+
+Guile Scheme
+:   I use GNU Guix OS for bit-for-bit reproducible packaging,
+    containerized dev work and deployments. My entire OS and dev
+    environments can be instantiated from the Scheme code I write.
+
+    \
+    
+    Unless you're Google-scale I am positive I can do better than k8s and opaque
+    Docker images with a dash of Scheme code.
+    
     \
 
 JavaScript
@@ -297,22 +315,25 @@ Languages
 ---------
 
 Russian, English
-:   Equally uncomfortable.
+:   What you'll hear me speak on Zoom calls.
 
 Clojure
-:   What I get to use on the job. Can't complain.
+:   What I get to use on the job most often.
 
 Racket
-:   Favorite Lisp. Would be my weapon of choice were such choice ever offered.
+:   Used to be my favorite, but I tend to choose simpler tools now.
 
 Emacs Lisp
-:   Unavoidable Lisp for any Emacs user. It is surprisingly fun to code.
+:   Unavoidable Lisp for a pro Emacs user. Surprisingly fun & productive.
+
+Guile Scheme
+:   Unavoidable Scheme for a pro Guix user. Lively.
 
 JavaScript
-:   Wrote fair amount, mostly backend compiler stuff with Node.js.
+:   Wrote fair amount, mostly backend Node.js. I prefer ClojureScript.
 
 TCL
-:   Happy parallel universe where people no longer write Shell scripts.
+:   Happy parallel universe with Shell scripts gone. Deserves more praise
 
 OMeta
 :   Extensive experience writing parsers with complex and context dependent grammars.
@@ -326,11 +347,40 @@ Java
 C
 :   Enough to pass a systems programming class but not nearly enough to actually use it.
 
-Factor, OCaml, Lua, Rust, Shen
-:   Toyed with but never used in earnest. I
-    [ported](https://github.com/vkz/prelude/blob/master/tables.rkt) some good
-    ideas from Lua to Racket and contributed a patch to
-    [racer-rust](https://github.com/racer-rust/racer).
+Factor, OCaml, Lua, Rust, Shen, Erlang (via LFE)
+:   Toyed with but never used in earnest. I [ported](https://github.com/vkz/prelude/blob/master/tables.rkt) some good ideas from Lua to Racket and contributed a patch to [racer-rust](https://github.com/racer-rust/racer). Would love to use Erlang via LFE professionally.
+
+
+
+Other tools
+-----------
+
+Managed and deployed OpenBSD and FreeBSD boxes but prefer Scheme code
+targeting GNU Guix. I programmed against Kafka, Elastic Search, Mongo,
+PG, SQLite. I am intimately familiar with Datomic and Datascript graph
+databases. I don't do YAML, Docker, k8s nor should you.
+
+
+On interviews
+-------------
+
+_NB UK/EU recruiters: I am expensive_
+
+
+_NB recruiters: liaise this section with your client_
+
+
+I hired and put together successful engineering teams from nothing.
+Interviewing is hard - I get it. That doesn't mean you should be
+throwing random puzzles at me, unless the job specifically calls for
+"tip of your fingers" algorithmic knowledge rather than asking
+Wikipedia. I encourage you to look at my code and pair program a
+feature or debug something in one of my current projects. I'll happily
+give you a choice of interesting problems we can work on. You'll get
+to see me program computers and I'll enjoy a feature or bugfix. Take
+home problems are fine, but must be paid for at my usual contracting
+rate.
+
 
 Activities and interests
 ------------------------
