@@ -27,7 +27,13 @@ Dec 2019-now
 
     Director and sole proprietor at Fullmeta Capital Ltd (London, UK)
 
-    Contracting gigs with startups and financial institutions.
+    Contracting gigs with startups and financial institutions. I can
+    prototype and MVP a new product, setup and get a project going,
+    hire, on-board and hand off to your engineers when time comes. I can
+    port, simplify and assist with existing products. I can bring in a
+    small “SWAT” Clojure team if necessary. I will communicate early and
+    often, document work as I go and require little hand-holding from
+    your senior staff.
 
 Jul-Dec 2019
 
