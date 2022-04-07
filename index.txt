@@ -4,6 +4,7 @@ Vladilen Kozin
 
   Clojure, Racket, Emacs Lisp, Guile Scheme, TCL, Redex, OMeta, etc
   UK Tier 1 Exceptional Talent visa holder
+  UK ILR holder
   Fall’13 Recurse Center alum
   Former Yandex
 
@@ -60,6 +61,16 @@ Apr-Nov 2017
     (London, UK).
 
 Sample Projects
+
+I’ve worked on and implemented compilers, DSLs, rules and inference
+engines, parsers and parser combinator libraries, web-templating
+engines, data extraction and processing pipelines, backends for
+web-applications, React SPAs, IDEs and programmer productivity tools,
+formal semantics, blockchain DSLs and tooling, semi-autonomous and
+algorithmic trading and execution systems, etc. I’ve managed in-house
+server infrastructure and organized “homegrown” devops. Hired, trained
+and on-boarded engineers, successfully transitioned projects to new
+maintainers.
 
 Clojure
 
@@ -144,6 +155,11 @@ JavaScript
     Contributor to ometa-js, a JavaScript implementation of OMeta.
 
     Contributor to bem-xjst, XJST-based compiler for BEMHTML templates.
+
+Blockchain tech
+    I am most familiar with Chia (XCH) ecosystem and its own Chialisp
+    smart-contract language. I have targeted EVM in the past but would
+    prefer to stay away from Ethereum.
 
 Public Speaking
 

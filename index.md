@@ -5,6 +5,7 @@ Vladilen Kozin
 
 > __Clojure__, __Racket__, __Emacs Lisp__, __Guile Scheme__, __TCL__, __Redex__, __OMeta__, etc\
 > UK Tier 1 [Exceptional Talent visa](https://www.gov.uk/tier-1-exceptional-talent) holder\
+> UK [ILR](https://www.gov.uk/indefinite-leave-to-remain) holder\
 > Fall'13 [Recurse Center](https://www.recurse.com/) alum\
 > Former Yandex
 
@@ -81,6 +82,17 @@ Apr-Nov 2017
 
 Sample Projects
 ---------------
+
+I've worked on and implemented compilers, DSLs, rules and inference
+engines, parsers and parser combinator libraries, web-templating
+engines, data extraction and processing pipelines, backends for
+web-applications, React SPAs, IDEs and programmer productivity tools,
+formal semantics, blockchain DSLs and tooling, semi-autonomous and
+algorithmic trading and execution systems, etc. I've managed in-house
+server infrastructure and organized "homegrown" devops. Hired, trained
+and on-boarded engineers, successfully transitioned projects to new
+maintainers.
+
 
 Clojure
 :    *Author* of [fullmeta
@@ -213,6 +225,13 @@ JavaScript
 
     *Contributor* to [bem-xjst](https://github.com/bem/bem-xjst), XJST-based
     compiler for BEMHTML templates.
+
+    \
+
+Blockchain tech
+:   I am most familiar with Chia (XCH) ecosystem and its own Chialisp
+    smart-contract language. I have targeted EVM in the past but would
+    prefer to stay away from Ethereum.
 
 
 Public Speaking
