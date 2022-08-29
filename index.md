@@ -199,7 +199,7 @@ Guile Scheme
     \
     
     Unless you're Google-scale I am positive I can do better than k8s and opaque
-    Docker images with a dash of Scheme code.
+    Docker images with a dash of Scheme, Clojure and AWS API.
     
     \
 
@@ -386,14 +386,17 @@ Factor, OCaml, Lua, Rust, Shen, Erlang (via LFE)
 
 
 
-Other tools
+Infrastructure and Other tools
 -----------
 
 Managed and deployed OpenBSD and FreeBSD boxes but prefer Scheme code
 targeting GNU Guix. I programmed against Kafka, Elastic Search, Mongo,
-PG, SQLite, Nginx and Nginx Unit, Jetty etc. I am intimately familiar
-with Datomic and Datascript graph databases. I don't do YAML, Docker,
-k8s nor should you.
+Postgres, MySQL, SQLite, Nginx, Jetty etc. Extensive hands on
+experience with on-prem Datomic and Datascript. Hands on and
+comfortable setting up, deploying and managing AWS resources (Ec2,
+Beanstalk, RDS, CloudWatch, etc) via console, cli, AWS API. I don't do
+YAML and k8s, nor should you - use Clojure AWS API directly and
+generate CloudFormation templates from EDN. I keep it simple.
 
 
 On interviews
