@@ -27,17 +27,18 @@ requires no micromanagement.
 Corporate ladder
 ----------------
 Dec 2019-now
-:   *Director* and *sole proprietor* at
-    Fullmeta Capital Ltd
+:   *Director* and *CTO* at
+    [https://fullmeta.co.uk](https://fullmeta.co.uk/)
     (London, UK)
-    
-    Contracting gigs with startups and financial institutions. I can
-    prototype and MVP a new product, setup and get a project going,
-    hire, on-board and hand off to your engineers when time comes. I
-    can port, simplify and assist with existing products. I can
-    bring in a small "SWAT" Clojure team if necessary. I will
-    communicate early and often, document work as I go and require
-    little hand-holding from your senior staff.
+
+    We are a Clojure SWAT team. Tightly knit, experienced, responsible
+    and thoughtful. Hire one or a few of us to bring your vision to
+    market. We take on contracts with startups and financial
+    institutions. I can prototype, MVP, setup and get a project going,
+    hire, on-board and hand off to your engineers when time comes. We
+    can port and take on maintainance of existing products and take
+    them to the next level. We communicate early and often, document
+    our work and require little hand-holding from your senior staff.
 
     \
 
