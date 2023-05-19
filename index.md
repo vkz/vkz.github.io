@@ -17,15 +17,26 @@ engines, parsers and parser combinator libraries, web-templating
 engines, data extraction and processing pipelines, backends for
 web-applications, React SPAs, IDEs and programmer productivity tools,
 formal semantics, blockchain DSLs and tooling, semi-autonomous and
-algorithmic trading and execution systems, etc. I've managed in-house
-server infrastructure and organized "homegrown" devops. Hired, trained
-and on-boarded engineers, successfully transitioned projects to new
-maintainers. I am a responsible and responsive professional who
-requires no micromanagement.
+algorithmic trading and execution systems, OpenBanking data connectors
+and a gazillion other APIs. I built a [Funding
+Circle](https://www.fundingcircle.com/) competitor in under 5 months
+in a team of two. I've managed in-house server infrastructure and
+organized "homegrown" devops. Hired, trained and on-boarded engineers,
+successfully transitioned projects to new maintainers. I am a
+responsible and responsive professional who requires no
+micromanagement.
 
 
 Corporate ladder
 ----------------
+May 2023-now
+:   *Launched* [https://git.ht](https://git.ht)
+    (London, UK)
+
+    Made tech blogging as simple as creating a Github gist. My
+    [hoots](https://git.ht) can be found at
+    [vlad.git.ht](https://vlad.git.ht/feed).
+
 Dec 2019-now
 :   *Director* and *CTO* at
     [https://fullmeta.co.uk](https://fullmeta.co.uk/)
@@ -112,7 +123,7 @@ Clojure
      per-position :default; helpful prelude functions, etc.
 
     \
-    
+
     *Author* of several closed-source products: FpML message parser, financial
     derivatives classifier based on ISDA taxonomies, legal annotation tools, PDF
     and XML content extractor and transformation tools.
@@ -160,14 +171,14 @@ Racket
     [RacketCon'19](https://youtu.be/sy2TzZO70E4) talk.
 
     \
-    
+
     *Author* of
     [FastCGI in
     Racket](https://github.com/vkz/fcgi.rkt/blob/master/fcgi.rkt) that
     relies on my [racket/tables](https://github.com/vkz/tables/blob/master/tables/main.rkt)
 
     \
-    
+
     *Author* of [ponzi](https://github.com/vkz/ponzi) - the beginnings of a clever
     Scheme for a discerning smart contract builder. WIP but it does implement the
     Ethereum Virtual Machine close enough to the Yellow Paper.
@@ -198,10 +209,10 @@ Guile Scheme
     environments can be instantiated from the Scheme code I write.
 
     \
-    
+
     Unless you're Google-scale I am positive I can do better than k8s and opaque
     Docker images with a dash of Scheme, Clojure and AWS API.
-    
+
     \
 
 JavaScript
@@ -250,7 +261,7 @@ Sep 2019
     Louis, USA)
 
     \
-   
+
 Jul 2019
 :   [talk](https://youtu.be/sy2TzZO70E4) at [RacketCon'19](https://con.racket-lang.org/#speakers) (Salt Lake City,
     USA)
@@ -266,7 +277,7 @@ Formal education
 2004
 :   [New Economic School](https://www.nes.ru/) (Moscow, Russia)\
      *MS in Economics track with full scholarship, dropped out*
-     
+
      \
 
 1999-2004
@@ -286,7 +297,7 @@ Autodidacticisms
 2017
 :   [Redex](https://redex.racket-lang.org/) for designing operational semantics\
     [The Racket Summer School of Semantics and Languages](https://summer-school.racket-lang.org/2017/) (Salt Lake City, USA)
-    
+
     While targeted at PL PhDs a bunch of us non-academic types had been
     admitted. Learnt to create languages quickly and back them up with runnable
     reduction semantics - what's not to like?
@@ -434,7 +445,7 @@ Mexico to Canada twice with the current state count of 19.
 
 ----
 >\
-> <vladilen.kozin@gmail.com> • +44 7494979 626 • London, UK\
+> <vlad@fullmeta.co.uk> • +44 7494979 626 • London, UK\
 > [pdf version](index.pdf) •
 > [txt version](index.txt) •
 > [doc version](index.docx) •
